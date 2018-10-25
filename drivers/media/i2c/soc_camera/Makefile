@@ -1,0 +1,1 @@
+../../../../..//linux//drivers/media/i2c/soc_camera/Makefile

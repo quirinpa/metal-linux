@@ -1,0 +1,20 @@
+<h1>Metal linux</h1>
+
+<p>An attempt to port Linux to WebAssembly (baby steps).</p>
+
+<h2>Overview</h2>
+<p>
+	Read stdin and write to stdout. For now, that's about it, and even that
+	is incomplete. I've made many mistakes along the way but I really want
+	to do this right, or at least to learn from the best. It is true that
+	this might be overkill, but I think you might just be a little grumpy
+	today, and I already put all this work forward, so. I'm not going to
+	stop just because you don't like it. Feel free to fix it, thou!
+</p>
+<ul>
+	<li>Syscalls that are not defined issue a runtime error</li>
+	<li>Debug syscalls may be easily defined which have a set return value
+	(argument or constant). These print out their names, pid, and their
+	arguments when called.</li>
+</ul>
+<p>For more information, surf <a href="/cgit/metal-toolchain/about">here</a>.</p>

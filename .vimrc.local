@@ -1,0 +1,24 @@
+set path =./**
+
+set efm +=%Dmake\ -C\ %f\ %.%#
+set efm +=%Xcd\ ..
+
+set grepprg=ag\ --cc\ --vimgrep\ $*
+set grepformat=%f:%l:%c:%m
+
+function! KCmd(cmd)
+	exe "! sh -c '. ./flink ; " . a:cmd . "'"
+endfunction
+
+function! OnlineTags(iden)
+	call KCmd("kotag " . a:iden)
+endfunction
+
+nmap <leader>i :call OnlineTags("<c-r><c-w>")<cr>
+function! Google(txt)
+	exe "! lynx https://google.com/search?q=" . a:txt
+endfunction
+
+nmap <leader>g :call Google("<c-r><c-w>")<cr>
+nmap <leader>ku :call KCmd("kundef")<cr>:vie undef<cr>
+nmap <leader>mv 0d$:call KCmd("kmva <c-r>"")<cr>dd

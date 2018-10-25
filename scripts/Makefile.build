@@ -1,0 +1,74 @@
+.SUFFIXES: .d .a
+
+include ${srcdir}/../../wasm.mk
+include Makefile.common
+include .config
+-include Makefile
+
+objects:=${obj-y:N*/} $(filter %.o,${obj-y})
+subdirs:=${obj-y:M*/} $(filter %/,${obj-y})
+subdirs-clean:=${subdirs:%/=%-clean}
+subdirs-dep:=${subdirs:%/=%-dep}
+subdirs-cleandep:=${subdirs:%/=%-cleandep}
+subdirs-deps:=${subdirs:%/=%/built-in.a}
+subdirs:=${subdirs:%/=%}
+
+builtin-target != [[ -z "${objects}${subdirs}" ]] || echo built-in.a
+lib-target != [[ -z "${lib-y}${lib-m}${lib-}" ]] || echo lib.a
+
+all: ${builtin-target} ${lib-target}
+
+$(builtin-target): ${subdirs-deps} ${objects}
+	${Q2}{ echo create $@ ; ${subdirs-deps:%=echo addlib % ; } \
+		${objects:%=echo addmod % ; } \
+		echo save ; echo end ; } | ${AR} -M
+
+$(lib-target): ${lib-y} ${lib-m}
+	${Q2}{ echo create $@ ; ${lib-y:%=echo addmod % ; } \
+		${lib-m:%=echo addmod % ; } echo save ; echo end ; } | ${AR} -M
+
+$(subdirs-deps): FORCE
+	${Q}${MAKE} -C ${@:%/built-in.a=%} ${MAKEFLAGS}
+	${Q2}echo cd `echo ${@:%/built-in.a=%} | sed 's/[^/]*/../g'`
+
+.PHONY: all debug
+
+reloc ?!= echo ${objects} | tr ' ' '\n' | sed 's/\.o$$/\.c/' | \
+	while read line ; do test -f $$line || echo $$line ; done | \
+	sed 's/\.c$$/\.o/'
+
+$(reloc): ${${reloc:%.o=%-objs}} ${${reloc:%.o=%-y}}
+	${Q2}${LD} --relocatable -o $@ ${$*-objs} ${$*-y}
+
+$(reloc:%.o=%.d): ${reloc}
+
+clean: ${subdirs-clean}
+	${Q2}rm ${${reloc:%.o=%-y}} ${${reloc:%.o=%-objs}} ${reloc} \
+		${objects} ${lib-y} ${lib-m} *.a 2>/dev/null || true
+
+$(subdirs-clean):
+	${Q2}${MAKE} ${MAKEFLAGS} -C ${@:%-clean=%} clean
+
+.PHONY: clean ${subdirs-clean}
+
+deps:=${objects:%.o=%.d}${reloc:%.o=%.d}
+
+dep: ${deps} ${subdirs-dep}
+
+.c.d:
+	${Q2}${CC} -M -MT ${@:%.d=%.o} -o $@ ${CFLAGS} $<
+
+$(subdirs-dep):
+	${Q2}${MAKE} ${MAKEFLAGS} -C ${@:%-dep=%} dep
+
+.PHONY: dep ${subdirs-dep}
+
+cleandep: ${subdirs-cleandep}
+	${Q2}rm ${deps} 2>/dev/null || true
+
+$(subdirs-cleandep):
+	${Q2}${MAKE} ${MAKEFLAGS} -C ${@:%-cleandep=%} cleandep
+
+.PHONY: cleandep ${subdirs-cleandep}
+
+sinclude /dev/null ${deps}

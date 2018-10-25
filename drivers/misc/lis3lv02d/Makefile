@@ -1,0 +1,1 @@
+../../../..//linux//drivers/misc/lis3lv02d/Makefile

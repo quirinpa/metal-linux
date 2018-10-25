@@ -1,0 +1,20 @@
+ARCHDIR=arch/${ARCH}
+
+HDR_DIRS=${ARCHDIR}/include ${ARCHDIR}/include/uapi include include/uapi
+
+CFLAGS += -D_XOPEN_SOURCE=700 ${HDR_DIRS:%=-I${srcdir}/%} -ffreestanding \
+	  -D__KERNEL__ -D__clang__ -include linux/kconfig.h -Wno-initializer-overrides -O2
+
+LDFLAGS += -L${sysroot}/lib
+LDFLAGS += --allow-undefined-file=${srcdir}/wasm.syms
+
+Q=
+Q2=@
+
+COMPILE.c := ${Q2}${COMPILE.c}
+LINK.o := ${Q2}${LD} ${LDFLAGS}
+
+MAKEFLAGS := srcdir=${srcdir} -I${srcdir}/scripts -f Makefile.build
+
+all:
+FORCE:

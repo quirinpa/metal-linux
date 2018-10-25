@@ -1,0 +1,114 @@
+# https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key/Key_Values
+
+# modifier
+
+"Alt":
+GDK_KEY_Alt_L (0xFFE9)
+GDK_KEY_Alt_R (0xFFEA)
+"AltGraph"
+GDK_KEY_Mode_switch (0xFF7E)
+GDK_KEY_ISO_Level3_Shift (0xFE03)
+GDK_KEY_ISO_Level3_Latch (0xFE04)
+GDK_KEY_ISO_Level3_Lock (0xFE05)
+GDK_KEY_ISO_Level5_Shift (0xFE11)
+GDK_KEY_ISO_Level5_Latch (0xFE12)
+GDK_KEY_ISO_Level5_Lock (0xFE13)
+"CapsLock"
+GDK_KEY_Caps_Lock (0xFFE5)
+"Control"
+GDK_KEY_Control_L (0xFFE3)
+GDK_KEY_Control_R (0xFFE4)
+"Fn"
+KEYCODE_FUNCTION (119)
+"FnLock"
+"Hyper"
+GDK_KEY_Hyper_L (0xFFED)
+GDK_KEY_Hyper_R (0xFFEE)
+"Meta"
+GDK_KEY_Meta_L (0xFFE7)
+GDK_KEY_Meta_R (0xFFE8)
+"NumLock"
+GDK_KEY_Num_Lock (0xFF7F)
+"ScrollLock"
+GDK_KEY_Scroll_Lock (0xFF14)
+"Shift"
+GDK_KEY_Shift_L (0xFFE1)
+GDK_KEY_Shift_R (0xFFE2)
+"Super"
+GDK_KEY_Super_R (0xFFEC)
+"Symbol"
+KEYCODE_SYM (63) [3]
+"SymbolLock"
+
+# Whitespace
+
+"Enter"
+GDK_KEY_Return (0xFF0D)
+GDK_KEY_KP_Enter (0xFF8D)
+GDK_KEY_ISO_Enter (0xFE34)
+GDK_KEY_3270_Enter (0xFD1E)
+"Tab"
+GDK_KEY_Tab (0xFF09)
+GDK_KEY_KP_Tab (0xFF89)
+GDK_KEY_ISO_Left_Tab (0xFE20)
+" "
+GDK_KEY_space (0x20)
+GDK_KEY_KP_Space (0xFF80)
+
+# Navigation
+
+"ArrowDown"
+GDK_KEY_Down (0xFF54)
+GDK_KEY_KP_Down (0xFF99)
+"ArrowLeft"
+GDK_KEY_Left (0xFF51)
+GDK_KEY_KP_Left (0xFF96)
+"ArrowRight"
+GDK_KEY_Right (0xFF53)
+GDK_KEY_KP_Right (0xFF98)
+"ArrowUp"
+GDK_KEY_Up (0xFF52)
+GDK_KEY_KP_Up (0xFF97)
+"End"
+GDK_KEY_End (0xFF57)
+GDK_KEY_KP_End (0xFF9C)
+"Home"
+GDK_KEY_Home (0xFF50)
+GDK_KEY_KP_Home (0xFF95)
+"PageDown"
+GDK_KEY_Page_Down (0xFF56)
+GDK_KEY_KP_Page_Down (0xFF9B)
+"PageUp"
+GDK_KEY_Page_Up (0xFF55)
+GDK_KEY_KP_Page_Up (0xFF9A)
+
+# Editing
+
+"Backspace"
+GDK_KEY_BackSpace (0xFF08)
+"Clear"
+GDK_KEY_Clear (0xFF0B)
+"Copy"
+GDK_KEY_Copy (0x1008FF57)
+"CrSel"
+GDK_KEY_3270_CursorSelect (0xFD1C)
+"Cut"
+GDK_KEY_Cut (0x1008FF58)
+"Delete"
+GDK_KEY_Delete (0xFFFF)
+GDK_KEY_KP_Delete (0xFF9F)
+"EraseEof"
+GDK_KEY_3270_ExSelect (0xFD1B)
+"ExSel"
+GDK_KEY_3270_ExSelect (0xFD1B)
+"Insert"
+GDK_KEY_Insert (0xFF63)
+GDK_KEY_KP_Insert (0xFF9E)
+"Paste"
+GDK_KEY_Paste (0x1008FF6D)
+"Redo"
+GDK_KEY_Redo (0xFF66)
+"Undo"
+GDK_KEY_Undo (0xFF65)
+
+

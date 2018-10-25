@@ -1,0 +1,1 @@
+../../..//linux//include/linux/screen_info.h

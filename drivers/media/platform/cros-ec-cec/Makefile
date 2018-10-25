@@ -1,0 +1,1 @@
+../../../../..//linux//drivers/media/platform/cros-ec-cec/Makefile

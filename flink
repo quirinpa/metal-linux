@@ -1,0 +1,99 @@
+#!/bin/ksh
+
+_kln() {
+	target=$1
+	_orig=linux/$3/$target
+	orig=../$_orig
+
+	if [[ ! -f $orig ]]; then
+		echo kln: $orig not found. >&2
+		return 1;
+	fi
+
+	ndir=`dirname $target`
+	tdir=./$2/$ndir
+	dest=$tdir/`basename $target`
+
+	if [[ -e $dest ]]; then
+		echo -n kln: $dest exists. Overwrite? [n]\  >&2
+		read y
+		[[ $y == y ]] || return 1;
+	else
+		mkdir -p $tdir
+	fi
+
+	cd $tdir
+	ln -fs `echo $tdir | sed 's/[^/]*\/*/..\//g'`/$_orig
+	cd - >/dev/null
+
+	return 0;
+}
+
+kln() {
+	target=`echo $1 | sed 's/^\.\.\/linux\///'`
+	_kln $target
+	return $?
+}
+
+klni () {
+	kln ../linux/include/$1
+	return $?
+}
+
+kasm () {
+	if [[ ! -f arch/wasm32/include/$1 ]]; then
+		target=arch/wasm32/include/$1
+		gen=`echo $1 | sed 's/asm/asm-generic/'`
+
+		klni $gen
+		mkdir -p `dirname $target`
+		echo "#include <$gen>" > $target
+	fi
+}
+
+klna () {
+	oarch=`[[ $# -ge 2 ]] && echo $2 || echo arc`
+	_kln $1 arch/wasm32 arch/$oarch
+	return $?
+}
+
+kparse_init() {
+	while read line; do
+		set - $line
+		[[ $# -ge 6 ]] && echo $6 $3 || echo $5
+	done
+}
+
+kparse() {
+	read line
+	set - $line
+	lastiden=$1
+	files=$2
+	count=1
+	while read line; do
+		set - $line
+		file=${2%:}
+		if [[ $1 == $lastiden ]]; then
+			let count++
+			files="$files $file"
+		else
+			echo $count $lastiden $files
+			lastiden=$1
+			files=$file
+			count=1
+		fi
+	done
+	echo $count $lastiden $files
+}
+
+kundef () {
+	LDFLAGS=-error-limit=0 make 2>&1 | \
+		sed -n '/^lld: error: /p' | kparse_init | \
+		sort | kparse | sort -g -r > undef
+}
+
+kotag () {
+	defurl=https://elixir.bootlin.com/linux/latest/ident
+	lynx -dump $defurl/$1 | sed -n '/^Defined in/,/^Referenced/p' | \
+		sed -n 's/^     \* \[[^]]*\]//p'
+}

@@ -1,0 +1,1 @@
+../../..//linux//drivers/platform/Makefile

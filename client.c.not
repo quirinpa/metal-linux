@@ -1,0 +1,110 @@
+#include <linux/list.h>
+#include <linux/hashtable.h>
+#include <linux/stringhash.h>
+
+struct key_keycode {
+	char key[16];
+	unsigned code;
+	struct hlist_node list;
+} kkc[] = {
+        // modifier
+	{ .key = "Alt", .code = 0xffe9 },
+	{ .key = "CapsLock", .code = 0xffe5 },
+
+        // others
+        { .key = "Escape", .code = 1 },
+        { .key = "Digit1", .code = 2 },
+        { .key = "Digit2", .code = 3 },
+        { .key = "Digit3", .code = 4 },
+        { .key = "Digit4", .code = 5 },
+        { .key = "Digit5", .code = 6 },
+        { .key = "Digit6", .code = 7 },
+        { .key = "Digit7", .code = 8 },
+        { .key = "Digit8", .code = 9 },
+        { .key = "Digit9", .code = 10 },
+        { .key = "Digit0", .code = 11 },
+        { .key = "Minus", .code = 12 },
+        { .key = "Equal", .code = 13 },
+        { .key = "Backspace", .code = 14 },
+
+        // alpha
+        { .key = "Tab", .code = 15 }, // 0xff09
+        { .key = "KeyQ", .code = 16 }, // 0xff71
+        { .key = "KeyW", .code = 17 }, // 0xff77
+        { .key = "KeyE", .code = 18 }, // 0xff65
+        { .key = "KeyR", .code = 19 }, // 0xff72
+        { .key = "KeyT", .code = 20 }, // 0xff74
+        { .key = "KeyY", .code = 21 }, // 0xff79
+        { .key = "KeyU", .code = 22 }, // 0xff75
+        { .key = "KeyI", .code = 23 }, // 0xff69
+        { .key = "KeyO", .code = 24 }, // 0xff6f
+        { .key = "KeyP", .code = 25 }, // 0xff70
+        { .key = "BracketLeft", .code = 26 },
+        { .key = "BracketRight", .code = 27 },
+        { .key = "Enter", .code = 28 }, // 0xff0d
+
+	{ .key = "ControlLeft", .code = 29 }, // 0xffe3
+        { .key = "KeyA", .code = 30 }, // 0xff61
+        { .key = "KeyS", .code = 31 }, // 0xff73
+        { .key = "KeyD", .code = 32 }, // 0xff64
+        { .key = "KeyF", .code = 33 }, // 0xff66
+        { .key = "KeyG", .code = 34 }, // 0xff67
+        { .key = "KeyH", .code = 35 }, // 0xff68
+        { .key = "KeyJ", .code = 36 }, // 0xff6a
+        { .key = "KeyK", .code = 37 }, // 0xff6b
+        { .key = "KeyL", .code = 38 }, // 0xff6c
+        { .key = "Semicolon", .code = 39 }, // 0xff6c
+        { .key = "Quote", .code = 40 }, // 0xff6c
+        { .key = "Backquote", .code = 41 }, // 0xff6c
+
+	{ .key = "ShiftLeft", .code = 42 }, // 0xffe1
+	{ .key = "Backslash", .code = 43 },
+        { .key = "KeyZ", .code = 44 }, // 0xff7a
+        { .key = "KeyX", .code = 45 }, // 0xff78
+        { .key = "KeyC", .code = 46 }, // 0xff63
+        { .key = "KeyV", .code = 47 }, // 0xff76
+        { .key = "KeyB", .code = 48 }, // 0xff62
+        { .key = "KeyN", .code = 49 }, // 0xff6e
+        { .key = "KeyM", .code = 50 }, // 0xff6d
+        { .key = "Comma", .code = 51 },
+        { .key = "Period", .code = 52 },
+        { .key = "Slash", .code = 53 },
+        { .key = "ShiftRight", .code = 54 },
+
+        /* { .key = "KpAsterisk", .code = 55 }, */
+        { .key = "AltLeft", .code = 56 },
+        { .key = "Space", .code = 57 },
+};
+
+DEFINE_HASHTABLE(ht, 7);
+
+u32 hash_key(char *k) {
+	u32 hash = 777;
+	while (*k)
+		hash = partial_name_hash(*k++, hash);
+	hash = end_name_hash(hash);
+	return hash;
+}
+
+void
+_start()
+{
+	int i;
+	hash_init(ht);
+	for (i = 0; i < sizeof(kkc) / sizeof(struct key_keycode); i++)
+		kkcode_add(ht, i);
+}
+
+/* void */
+/* input(char *key, int up_flag) */
+/* { */
+/* 	struct hlist_node *tmp; */
+/* 	struct key_keycode *cur; */
+
+/* 	hash_for_each_possible_safe(ht, cur, tmp, list, hash_key(key)) */
+/* 		if (!strcmp(key, cur->key)) */
+/* 			return input_kc(cur->code, up_flag); */
+
+/*         _console_log(key, 16); */
+/*         console_log("input didnt find match"); */
+/* } */

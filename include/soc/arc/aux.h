@@ -1,0 +1,1 @@
+../../../..//linux//include/soc/arc/aux.h

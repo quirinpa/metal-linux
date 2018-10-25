@@ -1,0 +1,10 @@
+umem
+kmem
+js_emem
+flush
+js_shutdown
+evt_count
+tty_read
+js_run
+js_sleep
+_console_log

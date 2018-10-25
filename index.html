@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf8"/>
+		<title></title>
+		<link rel="preload" as="script" href="obj/metal">
+		<link rel="preload" as="script" href="test">
+		<link rel="preload" as="script" href="obj/web.metal-worker.js">
+		<script src="obj/web.metal.js"></script>
+	</head>
+        <div tabindex="0" id="tty0"/>
+        <script async>
+                metal.run('../test');
+                metal.set_tty(document.getElementById('tty0'));
+        </script>
+</html>
+
