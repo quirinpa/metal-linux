@@ -1,9 +1,15 @@
 #include <linux/string.h>
 #include <linux/init.h>
 
+/* TODO dragons */
+unsigned long _text = 0;
+unsigned long _stext = 0;
+unsigned long _etext = 64;
+unsigned long _sdata = 64;
+unsigned long _edata = 16384;
+unsigned long _end = 32768;
+
 unsigned long jiffies;
-unsigned long _etext;
-unsigned long _edata;
 unsigned long __start_rodata;
 unsigned long __init_end;
 unsigned long __init_begin;
@@ -12,14 +18,10 @@ void memzero(void *mem, __kernel_size_t len)
 {
 	memset(mem, 0, len);
 }
-unsigned long _stext;
 unsigned long _sinittext;
-unsigned long _sdata;
-unsigned long _end;
 unsigned long _einittext;
 void ret_from_fork(void) {}
 unsigned long init_stack;
-unsigned long _text;
 unsigned long __stop___param;
 unsigned long __stop___ex_table;
 unsigned long __start___param;

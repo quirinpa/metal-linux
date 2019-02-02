@@ -1,0 +1,1 @@
+../../..//linux//drivers/scsi/script_asm.pl

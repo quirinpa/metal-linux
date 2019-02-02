@@ -3,6 +3,11 @@
 include ${srcdir}/../../wasm.mk
 include Makefile.common
 include .config
+
+src:=.
+obj:=.
+PERL!=which perl
+
 -include Makefile
 
 objects:=${obj-y:N*/} $(filter %.o,${obj-y})
