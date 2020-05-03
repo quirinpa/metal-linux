@@ -1,1 +1,1 @@
-../../..//linux//kernel/rcu/Makefile
+/home/quirinpa/linux/kernel/rcu/Makefile

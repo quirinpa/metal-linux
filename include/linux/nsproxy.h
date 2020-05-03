@@ -1,1 +1,1 @@
-../../..//linux//include/linux/nsproxy.h
+/home/quirinpa/linux/include/linux/nsproxy.h

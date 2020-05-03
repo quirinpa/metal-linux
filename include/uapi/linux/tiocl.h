@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/tiocl.h
+/home/quirinpa/linux/include/uapi/linux/tiocl.h

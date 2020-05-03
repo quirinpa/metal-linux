@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/elf-em.h
+/home/quirinpa/linux/include/uapi/linux/elf-em.h

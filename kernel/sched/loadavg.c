@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/loadavg.c
+/home/quirinpa/linux/kernel/sched/loadavg.c

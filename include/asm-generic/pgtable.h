@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/pgtable.h
+/home/quirinpa/linux/include/asm-generic/pgtable.h

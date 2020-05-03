@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/pci_iomap.h
+/home/quirinpa/linux/include/asm-generic/pci_iomap.h

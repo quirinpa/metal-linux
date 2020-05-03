@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rwsem.h
+/home/quirinpa/linux/include/linux/rwsem.h

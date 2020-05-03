@@ -1,1 +1,1 @@
-../../..//linux//include/linux/efi.h
+/home/quirinpa/linux/include/linux/efi.h

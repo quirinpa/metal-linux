@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/zr364xx/Makefile
+/home/quirinpa/linux/drivers/media/usb/zr364xx/Makefile

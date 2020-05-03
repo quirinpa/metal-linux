@@ -1,1 +1,1 @@
-../..//linux//lib/kobject.c
+/home/quirinpa/linux/lib/kobject.c

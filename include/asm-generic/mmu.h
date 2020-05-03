@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/mmu.h
+/home/quirinpa/linux/include/asm-generic/mmu.h

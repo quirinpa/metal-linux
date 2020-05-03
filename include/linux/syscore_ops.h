@@ -1,1 +1,1 @@
-../../..//linux//include/linux/syscore_ops.h
+/home/quirinpa/linux/include/linux/syscore_ops.h

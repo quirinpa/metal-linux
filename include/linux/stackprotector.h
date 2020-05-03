@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stackprotector.h
+/home/quirinpa/linux/include/linux/stackprotector.h

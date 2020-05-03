@@ -1,1 +1,1 @@
-../../..//linux//include/linux/jhash.h
+/home/quirinpa/linux/include/linux/jhash.h

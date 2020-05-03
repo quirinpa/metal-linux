@@ -1,1 +1,1 @@
-../../..//linux//include/linux/namei.h
+/home/quirinpa/linux/include/linux/namei.h

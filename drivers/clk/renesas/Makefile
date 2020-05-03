@@ -1,1 +1,1 @@
-../../../..//linux//drivers/clk/renesas/Makefile
+/home/quirinpa/linux/drivers/clk/renesas/Makefile

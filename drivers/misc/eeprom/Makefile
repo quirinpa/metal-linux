@@ -1,1 +1,1 @@
-../../../..//linux//drivers/misc/eeprom/Makefile
+/home/quirinpa/linux/drivers/misc/eeprom/Makefile

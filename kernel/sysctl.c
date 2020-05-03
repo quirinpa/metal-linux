@@ -1,1 +1,1 @@
-../..//linux//kernel/sysctl.c
+/home/quirinpa/linux/kernel/sysctl.c

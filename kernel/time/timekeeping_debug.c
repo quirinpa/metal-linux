@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/timekeeping_debug.c
+/home/quirinpa/linux/kernel/time/timekeeping_debug.c

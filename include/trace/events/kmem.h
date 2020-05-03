@@ -1,1 +1,1 @@
-../../../..//linux//include/trace/events/kmem.h
+/home/quirinpa/linux/include/trace/events/kmem.h

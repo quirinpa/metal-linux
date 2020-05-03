@@ -1,1 +1,1 @@
-../../../..//linux//include/net/netns/nftables.h
+/home/quirinpa/linux/include/net/netns/nftables.h

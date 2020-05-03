@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/dqblk_xfs.h
+/home/quirinpa/linux/include/uapi/linux/dqblk_xfs.h

@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/uaccess.h
+/home/quirinpa/linux/include/asm-generic/uaccess.h

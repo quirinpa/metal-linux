@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/socket.h
+/home/quirinpa/linux/include/uapi/linux/socket.h

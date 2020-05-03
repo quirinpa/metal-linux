@@ -1,1 +1,1 @@
-../../..//linux//include/linux/livepatch.h
+/home/quirinpa/linux/include/linux/livepatch.h

@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/ntp_internal.h
+/home/quirinpa/linux/kernel/time/ntp_internal.h

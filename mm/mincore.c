@@ -1,1 +1,1 @@
-../..//linux//mm/mincore.c
+/home/quirinpa/linux/mm/mincore.c

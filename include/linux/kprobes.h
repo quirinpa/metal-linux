@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kprobes.h
+/home/quirinpa/linux/include/linux/kprobes.h

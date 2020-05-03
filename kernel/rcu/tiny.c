@@ -1,1 +1,1 @@
-../../..//linux//kernel/rcu/tiny.c
+/home/quirinpa/linux/kernel/rcu/tiny.c

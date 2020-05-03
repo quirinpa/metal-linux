@@ -1,1 +1,1 @@
-../..//linux//lib/nmi_backtrace.c
+/home/quirinpa/linux/lib/nmi_backtrace.c

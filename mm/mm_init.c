@@ -1,1 +1,1 @@
-../..//linux//mm/mm_init.c
+/home/quirinpa/linux/mm/mm_init.c

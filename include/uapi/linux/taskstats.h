@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/taskstats.h
+/home/quirinpa/linux/include/uapi/linux/taskstats.h

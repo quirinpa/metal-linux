@@ -1,1 +1,1 @@
-../..//linux//lib/decompress.c
+/home/quirinpa/linux/lib/decompress.c

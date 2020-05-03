@@ -1,1 +1,1 @@
-../../../..//linux//drivers/soc/qcom/Makefile
+/home/quirinpa/linux/drivers/soc/qcom/Makefile

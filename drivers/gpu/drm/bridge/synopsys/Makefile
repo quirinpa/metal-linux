@@ -1,1 +1,1 @@
-../../../../../..//linux//drivers/gpu/drm/bridge/synopsys/Makefile
+/home/quirinpa/linux/drivers/gpu/drm/bridge/synopsys/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/compiler-clang.h
+/home/quirinpa/linux/include/linux/compiler-clang.h

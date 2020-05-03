@@ -1,1 +1,1 @@
-../../..//linux//include/linux/uprobes.h
+/home/quirinpa/linux/include/linux/uprobes.h

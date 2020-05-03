@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/resend.c
+/home/quirinpa/linux/kernel/irq/resend.c

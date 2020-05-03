@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ramfs.h
+/home/quirinpa/linux/include/linux/ramfs.h

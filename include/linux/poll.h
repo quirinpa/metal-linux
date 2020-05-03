@@ -1,1 +1,1 @@
-../../..//linux//include/linux/poll.h
+/home/quirinpa/linux/include/linux/poll.h

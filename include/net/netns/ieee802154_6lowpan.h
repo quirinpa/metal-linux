@@ -1,1 +1,1 @@
-../../../..//linux//include/net/netns/ieee802154_6lowpan.h
+/home/quirinpa/linux/include/net/netns/ieee802154_6lowpan.h

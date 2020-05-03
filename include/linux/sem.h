@@ -1,1 +1,1 @@
-../../..//linux//include/linux/sem.h
+/home/quirinpa/linux/include/linux/sem.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/netdevice.h
+/home/quirinpa/linux/include/uapi/linux/netdevice.h

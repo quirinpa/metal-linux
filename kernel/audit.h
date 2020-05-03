@@ -1,1 +1,1 @@
-../..//linux//kernel/audit.h
+/home/quirinpa/linux/kernel/audit.h

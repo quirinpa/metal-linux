@@ -1,1 +1,1 @@
-../..//linux//lib/int_sqrt.c
+/home/quirinpa/linux/lib/int_sqrt.c

@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/rwsem.h
+/home/quirinpa/linux/include/asm-generic/rwsem.h

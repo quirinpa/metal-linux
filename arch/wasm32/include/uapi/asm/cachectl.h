@@ -1,1 +1,1 @@
-../../../../../../linux/arch/arc/include/uapi/asm/cachectl.h
+/home/quirinpa/linux/arch/arc/include/uapi/asm/cachectl.h

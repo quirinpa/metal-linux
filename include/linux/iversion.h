@@ -1,1 +1,1 @@
-../../..//linux//include/linux/iversion.h
+/home/quirinpa/linux/include/linux/iversion.h

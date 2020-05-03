@@ -1,1 +1,1 @@
-../../..//linux//include/linux/screen_info.h
+/home/quirinpa/linux/include/linux/screen_info.h

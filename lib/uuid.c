@@ -1,1 +1,1 @@
-../..//linux//lib/uuid.c
+/home/quirinpa/linux/lib/uuid.c

@@ -1,1 +1,1 @@
-../..//linux//lib/seq_buf.c
+/home/quirinpa/linux/lib/seq_buf.c

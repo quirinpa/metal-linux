@@ -1,1 +1,1 @@
-../../..//linux//include/linux/dma-direction.h
+/home/quirinpa/linux/include/linux/dma-direction.h

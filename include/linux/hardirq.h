@@ -1,1 +1,1 @@
-../../..//linux//include/linux/hardirq.h
+/home/quirinpa/linux/include/linux/hardirq.h

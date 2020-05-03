@@ -1,1 +1,1 @@
-../..//linux//fs/pipe.c
+/home/quirinpa/linux/fs/pipe.c

@@ -1,1 +1,1 @@
-../../..//linux//kernel/printk/braille.h
+/home/quirinpa/linux/kernel/printk/braille.h

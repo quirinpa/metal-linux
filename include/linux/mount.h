@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mount.h
+/home/quirinpa/linux/include/linux/mount.h

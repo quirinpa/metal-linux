@@ -1,1 +1,1 @@
-../../..//linux//include/linux/cpuidle.h
+/home/quirinpa/linux/include/linux/cpuidle.h

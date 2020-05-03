@@ -1,1 +1,1 @@
-../../..//linux//include/linux/selection.h
+/home/quirinpa/linux/include/linux/selection.h

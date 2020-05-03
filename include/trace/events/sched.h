@@ -1,1 +1,1 @@
-../../../..//linux//include/trace/events/sched.h
+/home/quirinpa/linux/include/trace/events/sched.h

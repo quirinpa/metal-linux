@@ -1,1 +1,1 @@
-../../../..//linux//include/trace/events/alarmtimer.h
+/home/quirinpa/linux/include/trace/events/alarmtimer.h

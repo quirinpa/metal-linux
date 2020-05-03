@@ -1,1 +1,1 @@
-../../../..//linux//drivers/clk/ti/Makefile
+/home/quirinpa/linux/drivers/clk/ti/Makefile

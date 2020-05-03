@@ -1,1 +1,1 @@
-../..//linux//lib/llist.c
+/home/quirinpa/linux/lib/llist.c

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/termios.h
+/home/quirinpa/linux/include/uapi/linux/termios.h

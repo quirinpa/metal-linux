@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/rt.c
+/home/quirinpa/linux/kernel/sched/rt.c

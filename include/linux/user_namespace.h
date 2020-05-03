@@ -1,1 +1,1 @@
-../../..//linux//include/linux/user_namespace.h
+/home/quirinpa/linux/include/linux/user_namespace.h

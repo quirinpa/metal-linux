@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/topology.h
+/home/quirinpa/linux/include/asm-generic/topology.h

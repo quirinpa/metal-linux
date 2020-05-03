@@ -1,1 +1,1 @@
-../..//linux//lib/string.c
+/home/quirinpa/linux/lib/string.c

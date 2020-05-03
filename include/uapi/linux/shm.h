@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/shm.h
+/home/quirinpa/linux/include/uapi/linux/shm.h

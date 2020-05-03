@@ -1,1 +1,1 @@
-../../..//linux//drivers/irqchip/Makefile
+/home/quirinpa/linux/drivers/irqchip/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ethtool.h
+/home/quirinpa/linux/include/linux/ethtool.h

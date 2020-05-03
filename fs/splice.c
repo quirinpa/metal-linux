@@ -1,1 +1,1 @@
-../..//linux//fs/splice.c
+/home/quirinpa/linux/fs/splice.c

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rtnetlink.h
+/home/quirinpa/linux/include/linux/rtnetlink.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/net/netns/mpls.h
+/home/quirinpa/linux/include/net/netns/mpls.h

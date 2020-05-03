@@ -1,1 +1,1 @@
-../../..//linux//include/linux/interrupt.h
+/home/quirinpa/linux/include/linux/interrupt.h

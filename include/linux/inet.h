@@ -1,1 +1,1 @@
-../../..//linux//include/linux/inet.h
+/home/quirinpa/linux/include/linux/inet.h

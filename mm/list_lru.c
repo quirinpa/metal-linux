@@ -1,1 +1,1 @@
-../..//linux//mm/list_lru.c
+/home/quirinpa/linux/mm/list_lru.c

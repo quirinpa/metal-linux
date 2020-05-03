@@ -1,1 +1,1 @@
-../..//linux//fs/ioctl.c
+/home/quirinpa/linux/fs/ioctl.c

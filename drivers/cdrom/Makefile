@@ -1,1 +1,1 @@
-../../..//linux//drivers/cdrom/Makefile
+/home/quirinpa/linux/drivers/cdrom/Makefile

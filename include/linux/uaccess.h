@@ -1,1 +1,1 @@
-../../..//linux//include/linux/uaccess.h
+/home/quirinpa/linux/include/linux/uaccess.h

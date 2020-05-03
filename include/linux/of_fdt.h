@@ -1,1 +1,1 @@
-../../..//linux//include/linux/of_fdt.h
+/home/quirinpa/linux/include/linux/of_fdt.h

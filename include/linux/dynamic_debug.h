@@ -1,1 +1,1 @@
-../../..//linux//include/linux/dynamic_debug.h
+/home/quirinpa/linux/include/linux/dynamic_debug.h

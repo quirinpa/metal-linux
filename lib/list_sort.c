@@ -1,1 +1,1 @@
-../..//linux//lib/list_sort.c
+/home/quirinpa/linux/lib/list_sort.c

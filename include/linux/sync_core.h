@@ -1,1 +1,1 @@
-../../..//linux//include/linux/sync_core.h
+/home/quirinpa/linux/include/linux/sync_core.h

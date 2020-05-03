@@ -1,1 +1,1 @@
-../../../..//linux//drivers/i2c/muxes/Makefile
+/home/quirinpa/linux/drivers/i2c/muxes/Makefile

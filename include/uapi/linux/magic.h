@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/magic.h
+/home/quirinpa/linux/include/uapi/linux/magic.h

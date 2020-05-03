@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/types.h
+/home/quirinpa/linux/include/uapi/asm-generic/types.h

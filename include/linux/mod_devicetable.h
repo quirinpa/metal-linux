@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mod_devicetable.h
+/home/quirinpa/linux/include/linux/mod_devicetable.h

@@ -1,1 +1,1 @@
-../..//linux//lib/string_helpers.c
+/home/quirinpa/linux/lib/string_helpers.c

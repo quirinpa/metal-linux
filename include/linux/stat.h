@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stat.h
+/home/quirinpa/linux/include/linux/stat.h

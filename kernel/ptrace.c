@@ -1,1 +1,1 @@
-../..//linux//kernel/ptrace.c
+/home/quirinpa/linux/kernel/ptrace.c

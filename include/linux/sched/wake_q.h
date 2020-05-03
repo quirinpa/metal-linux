@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/wake_q.h
+/home/quirinpa/linux/include/linux/sched/wake_q.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kernel_stat.h
+/home/quirinpa/linux/include/linux/kernel_stat.h

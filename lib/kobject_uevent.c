@@ -1,1 +1,1 @@
-../..//linux//lib/kobject_uevent.c
+/home/quirinpa/linux/lib/kobject_uevent.c

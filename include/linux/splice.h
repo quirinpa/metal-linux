@@ -1,1 +1,1 @@
-../../..//linux//include/linux/splice.h
+/home/quirinpa/linux/include/linux/splice.h

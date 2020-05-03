@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rcu_sync.h
+/home/quirinpa/linux/include/linux/rcu_sync.h

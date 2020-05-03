@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/shmbuf.h
+/home/quirinpa/linux/include/uapi/asm-generic/shmbuf.h

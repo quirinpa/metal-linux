@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/platform/davinci/Makefile
+/home/quirinpa/linux/drivers/media/platform/davinci/Makefile

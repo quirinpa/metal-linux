@@ -1,1 +1,1 @@
-../..//linux//lib/is_single_threaded.c
+/home/quirinpa/linux/lib/is_single_threaded.c

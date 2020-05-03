@@ -1,1 +1,1 @@
-../../..//linux//include/linux/glob.h
+/home/quirinpa/linux/include/linux/glob.h

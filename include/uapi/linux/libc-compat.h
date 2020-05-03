@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/libc-compat.h
+/home/quirinpa/linux/include/uapi/linux/libc-compat.h

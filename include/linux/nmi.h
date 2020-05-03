@@ -1,1 +1,1 @@
-../../..//linux//include/linux/nmi.h
+/home/quirinpa/linux/include/linux/nmi.h

@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/sections.h
+/home/quirinpa/linux/include/asm-generic/sections.h

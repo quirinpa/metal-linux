@@ -1,1 +1,1 @@
-../../..//linux//include/linux/debug_locks.h
+/home/quirinpa/linux/include/linux/debug_locks.h

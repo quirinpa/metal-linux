@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/tty_ioctl.c
+/home/quirinpa/linux/drivers/tty/tty_ioctl.c

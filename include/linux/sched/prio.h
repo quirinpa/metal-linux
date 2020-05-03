@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/prio.h
+/home/quirinpa/linux/include/linux/sched/prio.h

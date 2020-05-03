@@ -1,1 +1,1 @@
-../..//linux//kernel/workqueue_internal.h
+/home/quirinpa/linux/kernel/workqueue_internal.h

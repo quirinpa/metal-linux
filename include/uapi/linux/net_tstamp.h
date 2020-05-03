@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/net_tstamp.h
+/home/quirinpa/linux/include/uapi/linux/net_tstamp.h

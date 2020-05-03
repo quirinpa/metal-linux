@@ -1,1 +1,1 @@
-../..//linux//kernel/resource.c
+/home/quirinpa/linux/kernel/resource.c

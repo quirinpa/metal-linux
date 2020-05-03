@@ -1,1 +1,1 @@
-../..//linux//lib/bsearch.c
+/home/quirinpa/linux/lib/bsearch.c

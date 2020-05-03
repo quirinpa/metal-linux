@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pstore.h
+/home/quirinpa/linux/include/linux/pstore.h

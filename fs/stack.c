@@ -1,1 +1,1 @@
-../..//linux//fs/stack.c
+/home/quirinpa/linux/fs/stack.c

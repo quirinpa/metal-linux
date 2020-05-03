@@ -1,1 +1,1 @@
-../../..//linux//include/linux/devpts_fs.h
+/home/quirinpa/linux/include/linux/devpts_fs.h

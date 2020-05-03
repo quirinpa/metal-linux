@@ -1,1 +1,1 @@
-../../..//linux//include/net/dst.h
+/home/quirinpa/linux/include/net/dst.h

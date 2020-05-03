@@ -1,1 +1,1 @@
-../../..//linux//include/linux/seqlock.h
+/home/quirinpa/linux/include/linux/seqlock.h

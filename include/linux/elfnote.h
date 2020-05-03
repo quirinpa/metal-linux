@@ -1,1 +1,1 @@
-../../..//linux//include/linux/elfnote.h
+/home/quirinpa/linux/include/linux/elfnote.h

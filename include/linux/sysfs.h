@@ -1,1 +1,1 @@
-../../..//linux//include/linux/sysfs.h
+/home/quirinpa/linux/include/linux/sysfs.h

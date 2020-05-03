@@ -1,1 +1,1 @@
-../..//linux//fs/fcntl.c
+/home/quirinpa/linux/fs/fcntl.c

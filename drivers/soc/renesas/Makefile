@@ -1,1 +1,1 @@
-../../../..//linux//drivers/soc/renesas/Makefile
+/home/quirinpa/linux/drivers/soc/renesas/Makefile

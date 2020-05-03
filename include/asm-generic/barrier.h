@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/barrier.h
+/home/quirinpa/linux/include/asm-generic/barrier.h

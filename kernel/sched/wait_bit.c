@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/wait_bit.c
+/home/quirinpa/linux/kernel/sched/wait_bit.c

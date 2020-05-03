@@ -1,1 +1,1 @@
-../../..//linux//drivers/char/random.c
+/home/quirinpa/linux/drivers/char/random.c

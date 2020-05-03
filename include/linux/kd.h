@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kd.h
+/home/quirinpa/linux/include/linux/kd.h

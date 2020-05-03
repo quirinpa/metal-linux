@@ -1,1 +1,1 @@
-../../..//linux//include/linux/reciprocal_div.h
+/home/quirinpa/linux/include/linux/reciprocal_div.h

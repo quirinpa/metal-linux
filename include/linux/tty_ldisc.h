@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tty_ldisc.h
+/home/quirinpa/linux/include/linux/tty_ldisc.h

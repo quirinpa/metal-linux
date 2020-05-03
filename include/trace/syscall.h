@@ -1,1 +1,1 @@
-../../..//linux//include/trace/syscall.h
+/home/quirinpa/linux/include/trace/syscall.h

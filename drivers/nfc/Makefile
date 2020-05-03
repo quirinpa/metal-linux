@@ -1,1 +1,1 @@
-../../..//linux//drivers/nfc/Makefile
+/home/quirinpa/linux/drivers/nfc/Makefile

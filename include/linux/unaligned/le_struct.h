@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/unaligned/le_struct.h
+/home/quirinpa/linux/include/linux/unaligned/le_struct.h

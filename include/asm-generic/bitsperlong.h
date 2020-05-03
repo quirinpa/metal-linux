@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/bitsperlong.h
+/home/quirinpa/linux/include/asm-generic/bitsperlong.h

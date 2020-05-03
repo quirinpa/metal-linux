@@ -1,1 +1,1 @@
-../../..//linux//include/linux/miscdevice.h
+/home/quirinpa/linux/include/linux/miscdevice.h

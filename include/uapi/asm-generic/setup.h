@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/setup.h
+/home/quirinpa/linux/include/uapi/asm-generic/setup.h

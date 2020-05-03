@@ -1,1 +1,1 @@
-../..//linux//lib/win_minmax.c
+/home/quirinpa/linux/lib/win_minmax.c

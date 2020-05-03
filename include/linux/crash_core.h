@@ -1,1 +1,1 @@
-../../..//linux//include/linux/crash_core.h
+/home/quirinpa/linux/include/linux/crash_core.h

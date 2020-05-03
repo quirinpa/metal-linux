@@ -1,1 +1,1 @@
-../../..//linux//drivers/scsi/script_asm.pl
+/home/quirinpa/linux/drivers/scsi/script_asm.pl

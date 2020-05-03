@@ -1,1 +1,1 @@
-../..//linux//fs/internal.h
+/home/quirinpa/linux/fs/internal.h

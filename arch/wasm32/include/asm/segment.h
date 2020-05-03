@@ -1,1 +1,1 @@
-../../../../../linux/arch/arc/include/asm/segment.h
+/home/quirinpa/linux/arch/arc/include/asm/segment.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/random.h
+/home/quirinpa/linux/include/linux/random.h

@@ -1,1 +1,1 @@
-../../../../..//linux//include/uapi/linux/byteorder/little_endian.h
+/home/quirinpa/linux/include/uapi/linux/byteorder/little_endian.h

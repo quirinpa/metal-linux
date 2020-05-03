@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kbd_kern.h
+/home/quirinpa/linux/include/linux/kbd_kern.h

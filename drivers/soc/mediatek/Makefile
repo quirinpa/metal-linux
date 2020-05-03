@@ -1,1 +1,1 @@
-../../../..//linux//drivers/soc/mediatek/Makefile
+/home/quirinpa/linux/drivers/soc/mediatek/Makefile

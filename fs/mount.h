@@ -1,1 +1,1 @@
-../..//linux//fs/mount.h
+/home/quirinpa/linux/fs/mount.h

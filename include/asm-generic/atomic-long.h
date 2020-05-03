@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/atomic-long.h
+/home/quirinpa/linux/include/asm-generic/atomic-long.h

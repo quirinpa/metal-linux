@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/device.h
+/home/quirinpa/linux/include/asm-generic/device.h

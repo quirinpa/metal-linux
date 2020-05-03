@@ -1,1 +1,1 @@
-../../..//linux//include/acpi/acrestyp.h
+/home/quirinpa/linux/include/acpi/acrestyp.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ipc.h
+/home/quirinpa/linux/include/linux/ipc.h

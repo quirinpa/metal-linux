@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/percpu.h
+/home/quirinpa/linux/include/asm-generic/percpu.h

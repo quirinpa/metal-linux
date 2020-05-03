@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kdb.h
+/home/quirinpa/linux/include/linux/kdb.h

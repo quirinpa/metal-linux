@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/vt.h
+/home/quirinpa/linux/include/uapi/linux/vt.h

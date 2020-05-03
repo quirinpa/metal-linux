@@ -1,1 +1,1 @@
-../..//linux//kernel/kallsyms.c
+/home/quirinpa/linux/kernel/kallsyms.c

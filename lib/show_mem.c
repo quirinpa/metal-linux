@@ -1,1 +1,1 @@
-../..//linux//lib/show_mem.c
+/home/quirinpa/linux/lib/show_mem.c

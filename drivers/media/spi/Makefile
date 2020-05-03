@@ -1,1 +1,1 @@
-../../../..//linux//drivers/media/spi/Makefile
+/home/quirinpa/linux/drivers/media/spi/Makefile

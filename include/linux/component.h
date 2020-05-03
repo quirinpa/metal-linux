@@ -1,1 +1,1 @@
-../../..//linux//include/linux/component.h
+/home/quirinpa/linux/include/linux/component.h

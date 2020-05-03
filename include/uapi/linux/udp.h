@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/udp.h
+/home/quirinpa/linux/include/uapi/linux/udp.h

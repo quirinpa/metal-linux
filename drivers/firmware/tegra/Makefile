@@ -1,1 +1,1 @@
-../../../..//linux//drivers/firmware/tegra/Makefile
+/home/quirinpa/linux/drivers/firmware/tegra/Makefile

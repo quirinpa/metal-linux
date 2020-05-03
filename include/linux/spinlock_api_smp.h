@@ -1,1 +1,1 @@
-../../..//linux//include/linux/spinlock_api_smp.h
+/home/quirinpa/linux/include/linux/spinlock_api_smp.h

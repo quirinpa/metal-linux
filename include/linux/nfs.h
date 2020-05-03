@@ -1,1 +1,1 @@
-../../..//linux//include/linux/nfs.h
+/home/quirinpa/linux/include/linux/nfs.h

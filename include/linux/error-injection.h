@@ -1,1 +1,1 @@
-../../..//linux//include/linux/error-injection.h
+/home/quirinpa/linux/include/linux/error-injection.h

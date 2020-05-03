@@ -1,1 +1,1 @@
-../../..//linux//kernel/printk/Makefile
+/home/quirinpa/linux/kernel/printk/Makefile

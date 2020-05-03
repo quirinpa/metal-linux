@@ -1,1 +1,1 @@
-../..//linux//kernel/panic.c
+/home/quirinpa/linux/kernel/panic.c

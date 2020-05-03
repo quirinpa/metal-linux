@@ -1,1 +1,1 @@
-../../..//linux//include/net/addrconf.h
+/home/quirinpa/linux/include/net/addrconf.h

@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/sched.h
+/home/quirinpa/linux/kernel/sched/sched.h

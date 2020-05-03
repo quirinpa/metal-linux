@@ -1,1 +1,1 @@
-../../..//linux//include/linux/delayacct.h
+/home/quirinpa/linux/include/linux/delayacct.h

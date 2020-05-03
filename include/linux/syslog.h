@@ -1,1 +1,1 @@
-../../..//linux//include/linux/syslog.h
+/home/quirinpa/linux/include/linux/syslog.h

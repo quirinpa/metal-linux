@@ -1,1 +1,1 @@
-../../..//linux//fs/tracefs/inode.c
+/home/quirinpa/linux/fs/tracefs/inode.c

@@ -1,1 +1,1 @@
-../../..//linux//include/net/ndisc.h
+/home/quirinpa/linux/include/net/ndisc.h

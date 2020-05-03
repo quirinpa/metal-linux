@@ -1,1 +1,1 @@
-../..//linux//fs/attr.c
+/home/quirinpa/linux/fs/attr.c

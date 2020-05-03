@@ -1,1 +1,1 @@
-../../..//linux//include/acpi/acoutput.h
+/home/quirinpa/linux/include/acpi/acoutput.h

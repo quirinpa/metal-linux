@@ -1,1 +1,1 @@
-../..//linux//lib/usercopy.c
+/home/quirinpa/linux/lib/usercopy.c

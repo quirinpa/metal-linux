@@ -1,1 +1,1 @@
-../..//linux//kernel/workqueue.c
+/home/quirinpa/linux/kernel/workqueue.c

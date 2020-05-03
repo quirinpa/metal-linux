@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mii.h
+/home/quirinpa/linux/include/linux/mii.h

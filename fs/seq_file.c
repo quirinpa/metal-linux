@@ -1,1 +1,1 @@
-../..//linux//fs/seq_file.c
+/home/quirinpa/linux/fs/seq_file.c

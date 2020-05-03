@@ -1,1 +1,1 @@
-../../..//linux//include/linux/numa.h
+/home/quirinpa/linux/include/linux/numa.h

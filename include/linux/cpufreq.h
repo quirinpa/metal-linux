@@ -1,1 +1,1 @@
-../../..//linux//include/linux/cpufreq.h
+/home/quirinpa/linux/include/linux/cpufreq.h

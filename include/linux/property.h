@@ -1,1 +1,1 @@
-../../..//linux//include/linux/property.h
+/home/quirinpa/linux/include/linux/property.h

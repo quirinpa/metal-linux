@@ -1,1 +1,1 @@
-../../..//linux//include/linux/atomic.h
+/home/quirinpa/linux/include/linux/atomic.h

@@ -1,1 +1,1 @@
-../..//linux//kernel/notifier.c
+/home/quirinpa/linux/kernel/notifier.c

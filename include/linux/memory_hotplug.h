@@ -1,1 +1,1 @@
-../../..//linux//include/linux/memory_hotplug.h
+/home/quirinpa/linux/include/linux/memory_hotplug.h

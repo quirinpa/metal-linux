@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/completion.c
+/home/quirinpa/linux/kernel/sched/completion.c

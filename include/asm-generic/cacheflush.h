@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/cacheflush.h
+/home/quirinpa/linux/include/asm-generic/cacheflush.h

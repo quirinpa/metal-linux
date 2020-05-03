@@ -1,1 +1,1 @@
-../../..//linux//include/net/ipv6.h
+/home/quirinpa/linux/include/net/ipv6.h

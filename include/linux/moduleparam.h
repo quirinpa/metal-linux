@@ -1,1 +1,1 @@
-../../..//linux//include/linux/moduleparam.h
+/home/quirinpa/linux/include/linux/moduleparam.h

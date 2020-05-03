@@ -1,1 +1,1 @@
-../..//linux//mm/internal.h
+/home/quirinpa/linux/mm/internal.h

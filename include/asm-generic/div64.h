@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/div64.h
+/home/quirinpa/linux/include/asm-generic/div64.h

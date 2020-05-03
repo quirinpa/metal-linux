@@ -1,1 +1,1 @@
-../../../../../linux/arch/arc/include/asm/kdebug.h
+/home/quirinpa/linux/arch/arc/include/asm/kdebug.h

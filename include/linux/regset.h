@@ -1,1 +1,1 @@
-../../..//linux//include/linux/regset.h
+/home/quirinpa/linux/include/linux/regset.h

@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/platform/omap/Makefile
+/home/quirinpa/linux/drivers/media/platform/omap/Makefile

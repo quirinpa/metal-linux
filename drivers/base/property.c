@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/property.c
+/home/quirinpa/linux/drivers/base/property.c

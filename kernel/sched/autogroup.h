@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/autogroup.h
+/home/quirinpa/linux/kernel/sched/autogroup.h

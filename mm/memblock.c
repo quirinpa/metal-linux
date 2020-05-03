@@ -1,1 +1,1 @@
-../..//linux//mm/memblock.c
+/home/quirinpa/linux/mm/memblock.c

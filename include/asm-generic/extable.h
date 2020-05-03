@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/extable.h
+/home/quirinpa/linux/include/asm-generic/extable.h

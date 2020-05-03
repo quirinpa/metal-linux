@@ -1,1 +1,1 @@
-../../..//linux//include/linux/lsm_hooks.h
+/home/quirinpa/linux/include/linux/lsm_hooks.h

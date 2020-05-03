@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/param.h
+/home/quirinpa/linux/include/uapi/linux/param.h

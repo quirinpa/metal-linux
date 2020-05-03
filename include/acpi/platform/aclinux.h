@@ -1,1 +1,1 @@
-../../../..//linux//include/acpi/platform/aclinux.h
+/home/quirinpa/linux/include/acpi/platform/aclinux.h

@@ -1,1 +1,1 @@
-../../..//linux//kernel/locking/mutex.h
+/home/quirinpa/linux/kernel/locking/mutex.h

@@ -1,1 +1,1 @@
-../../..//linux//include/net/if_inet6.h
+/home/quirinpa/linux/include/net/if_inet6.h

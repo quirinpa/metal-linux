@@ -1,1 +1,1 @@
-../../..//linux//include/linux/shrinker.h
+/home/quirinpa/linux/include/linux/shrinker.h

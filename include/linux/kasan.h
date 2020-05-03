@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kasan.h
+/home/quirinpa/linux/include/linux/kasan.h

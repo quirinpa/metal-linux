@@ -1,1 +1,1 @@
-../../..//linux//include/linux/start_kernel.h
+/home/quirinpa/linux/include/linux/start_kernel.h

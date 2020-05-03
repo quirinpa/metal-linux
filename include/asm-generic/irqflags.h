@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/irqflags.h
+/home/quirinpa/linux/include/asm-generic/irqflags.h

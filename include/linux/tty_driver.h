@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tty_driver.h
+/home/quirinpa/linux/include/linux/tty_driver.h

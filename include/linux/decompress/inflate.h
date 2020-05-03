@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/decompress/inflate.h
+/home/quirinpa/linux/include/linux/decompress/inflate.h

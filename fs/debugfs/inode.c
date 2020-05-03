@@ -1,1 +1,1 @@
-../../..//linux//fs/debugfs/inode.c
+/home/quirinpa/linux/fs/debugfs/inode.c

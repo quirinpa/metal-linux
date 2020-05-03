@@ -1,1 +1,1 @@
-../../..//linux//include/linux/syscalls.h
+/home/quirinpa/linux/include/linux/syscalls.h

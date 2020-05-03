@@ -1,1 +1,1 @@
-../../..//linux//include/linux/memory.h
+/home/quirinpa/linux/include/linux/memory.h

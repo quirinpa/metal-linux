@@ -1,1 +1,1 @@
-../..//linux//init/version.c
+/home/quirinpa/linux/init/version.c

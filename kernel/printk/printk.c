@@ -1,1 +1,1 @@
-../../..//linux//kernel/printk/printk.c
+/home/quirinpa/linux/kernel/printk/printk.c

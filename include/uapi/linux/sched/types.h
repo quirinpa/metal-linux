@@ -1,1 +1,1 @@
-../../../../..//linux//include/uapi/linux/sched/types.h
+/home/quirinpa/linux/include/uapi/linux/sched/types.h

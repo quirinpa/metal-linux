@@ -1,1 +1,1 @@
-../../..//linux//include/linux/migrate_mode.h
+/home/quirinpa/linux/include/linux/migrate_mode.h

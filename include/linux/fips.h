@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fips.h
+/home/quirinpa/linux/include/linux/fips.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/console.h
+/home/quirinpa/linux/include/linux/console.h

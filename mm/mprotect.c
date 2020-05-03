@@ -1,1 +1,1 @@
-../..//linux//mm/mprotect.c
+/home/quirinpa/linux/mm/mprotect.c

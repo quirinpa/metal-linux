@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/posix-stubs.c
+/home/quirinpa/linux/kernel/time/posix-stubs.c

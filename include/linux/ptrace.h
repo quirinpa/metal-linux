@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ptrace.h
+/home/quirinpa/linux/include/linux/ptrace.h

@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/i2c/soc_camera/Makefile
+/home/quirinpa/linux/drivers/media/i2c/soc_camera/Makefile

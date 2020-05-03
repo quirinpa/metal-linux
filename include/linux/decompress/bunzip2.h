@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/decompress/bunzip2.h
+/home/quirinpa/linux/include/linux/decompress/bunzip2.h

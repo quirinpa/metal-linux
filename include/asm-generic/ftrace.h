@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/ftrace.h
+/home/quirinpa/linux/include/asm-generic/ftrace.h

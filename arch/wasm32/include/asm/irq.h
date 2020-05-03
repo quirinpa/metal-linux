@@ -1,1 +1,1 @@
-../../../../..//linux/arch/arc/include/asm/irq.h
+/home/quirinpa/linux/arch/arc/include/asm/irq.h

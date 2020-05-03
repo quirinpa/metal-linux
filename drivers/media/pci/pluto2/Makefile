@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/pluto2/Makefile
+/home/quirinpa/linux/drivers/media/pci/pluto2/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/build-salt.h
+/home/quirinpa/linux/include/linux/build-salt.h

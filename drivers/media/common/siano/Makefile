@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/common/siano/Makefile
+/home/quirinpa/linux/drivers/media/common/siano/Makefile

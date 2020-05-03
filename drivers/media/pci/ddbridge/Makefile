@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/ddbridge/Makefile
+/home/quirinpa/linux/drivers/media/pci/ddbridge/Makefile

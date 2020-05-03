@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kobject.h
+/home/quirinpa/linux/include/linux/kobject.h

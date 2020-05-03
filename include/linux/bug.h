@@ -1,1 +1,1 @@
-../../..//linux//include/linux/bug.h
+/home/quirinpa/linux/include/linux/bug.h

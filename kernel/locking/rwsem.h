@@ -1,1 +1,1 @@
-../../..//linux//kernel/locking/rwsem.h
+/home/quirinpa/linux/kernel/locking/rwsem.h

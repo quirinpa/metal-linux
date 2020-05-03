@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/limits.h
+/home/quirinpa/linux/include/uapi/linux/limits.h

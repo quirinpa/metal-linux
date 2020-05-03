@@ -1,1 +1,1 @@
-../..//linux//security/Makefile
+/home/quirinpa/linux/security/Makefile

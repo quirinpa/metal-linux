@@ -1,1 +1,1 @@
-../../../..//linux//include/acpi/platform/acenv.h
+/home/quirinpa/linux/include/acpi/platform/acenv.h

@@ -1,1 +1,1 @@
-../..//linux//kernel/fork.c
+/home/quirinpa/linux/kernel/fork.c

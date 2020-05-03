@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/platform.c
+/home/quirinpa/linux/drivers/base/platform.c

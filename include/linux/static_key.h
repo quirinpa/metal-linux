@@ -1,1 +1,1 @@
-../../..//linux//include/linux/static_key.h
+/home/quirinpa/linux/include/linux/static_key.h

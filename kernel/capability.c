@@ -1,1 +1,1 @@
-../..//linux//kernel/capability.c
+/home/quirinpa/linux/kernel/capability.c

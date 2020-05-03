@@ -1,1 +1,1 @@
-../..//linux//fs/fs_struct.c
+/home/quirinpa/linux/fs/fs_struct.c

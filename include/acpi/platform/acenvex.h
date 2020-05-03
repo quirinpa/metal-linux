@@ -1,1 +1,1 @@
-../../../..//linux//include/acpi/platform/acenvex.h
+/home/quirinpa/linux/include/acpi/platform/acenvex.h

@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/handle.c
+/home/quirinpa/linux/kernel/irq/handle.c

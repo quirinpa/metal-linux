@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/s2255/Makefile
+/home/quirinpa/linux/drivers/media/usb/s2255/Makefile

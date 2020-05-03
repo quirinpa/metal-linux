@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/sysinfo.h
+/home/quirinpa/linux/include/uapi/linux/sysinfo.h

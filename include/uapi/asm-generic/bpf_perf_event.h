@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/bpf_perf_event.h
+/home/quirinpa/linux/include/uapi/asm-generic/bpf_perf_event.h

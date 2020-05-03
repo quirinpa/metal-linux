@@ -1,1 +1,1 @@
-../..//linux//kernel/ucount.c
+/home/quirinpa/linux/kernel/ucount.c

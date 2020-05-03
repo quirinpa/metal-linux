@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/errno-base.h
+/home/quirinpa/linux/include/uapi/asm-generic/errno-base.h

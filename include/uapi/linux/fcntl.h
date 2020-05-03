@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/fcntl.h
+/home/quirinpa/linux/include/uapi/linux/fcntl.h

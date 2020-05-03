@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tty_flip.h
+/home/quirinpa/linux/include/linux/tty_flip.h

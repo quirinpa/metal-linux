@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ftrace.h
+/home/quirinpa/linux/include/linux/ftrace.h

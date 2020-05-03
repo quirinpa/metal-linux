@@ -1,1 +1,1 @@
-../..//linux//init/Makefile
+/home/quirinpa/linux/init/Makefile

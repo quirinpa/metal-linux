@@ -1,1 +1,1 @@
-../../..//linux//kernel/dma/Makefile
+/home/quirinpa/linux/kernel/dma/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fs_stack.h
+/home/quirinpa/linux/include/linux/fs_stack.h

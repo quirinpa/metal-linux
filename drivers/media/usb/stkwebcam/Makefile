@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/stkwebcam/Makefile
+/home/quirinpa/linux/drivers/media/usb/stkwebcam/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/of_graph.h
+/home/quirinpa/linux/include/linux/of_graph.h

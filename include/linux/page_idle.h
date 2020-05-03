@@ -1,1 +1,1 @@
-../../..//linux//include/linux/page_idle.h
+/home/quirinpa/linux/include/linux/page_idle.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/phy.h
+/home/quirinpa/linux/include/linux/phy.h

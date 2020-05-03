@@ -1,1 +1,1 @@
-../../../..//linux//drivers/soc/xilinx/Makefile
+/home/quirinpa/linux/drivers/soc/xilinx/Makefile

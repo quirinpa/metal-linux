@@ -1,1 +1,1 @@
-../..//linux//lib/memcat_p.c
+/home/quirinpa/linux/lib/memcat_p.c

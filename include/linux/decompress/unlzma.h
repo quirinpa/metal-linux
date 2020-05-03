@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/decompress/unlzma.h
+/home/quirinpa/linux/include/linux/decompress/unlzma.h

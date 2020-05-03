@@ -1,1 +1,1 @@
-../..//linux//kernel/params.c
+/home/quirinpa/linux/kernel/params.c

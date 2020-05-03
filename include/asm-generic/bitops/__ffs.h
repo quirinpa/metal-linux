@@ -1,1 +1,1 @@
-../../../..//linux//include/asm-generic/bitops/__ffs.h
+/home/quirinpa/linux/include/asm-generic/bitops/__ffs.h

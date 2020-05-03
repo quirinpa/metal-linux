@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/ipcbuf.h
+/home/quirinpa/linux/include/uapi/asm-generic/ipcbuf.h

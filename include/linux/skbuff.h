@@ -1,1 +1,1 @@
-../../..//linux//include/linux/skbuff.h
+/home/quirinpa/linux/include/linux/skbuff.h

@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/Makefile
+/home/quirinpa/linux/kernel/irq/Makefile

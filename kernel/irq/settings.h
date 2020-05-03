@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/settings.h
+/home/quirinpa/linux/kernel/irq/settings.h

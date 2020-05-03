@@ -1,1 +1,1 @@
-../../..//linux//include/linux/uuid.h
+/home/quirinpa/linux/include/linux/uuid.h

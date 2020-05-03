@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/dm1105/Makefile
+/home/quirinpa/linux/drivers/media/pci/dm1105/Makefile

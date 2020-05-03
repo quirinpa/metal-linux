@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/bpf_common.h
+/home/quirinpa/linux/include/uapi/linux/bpf_common.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stacktrace.h
+/home/quirinpa/linux/include/linux/stacktrace.h

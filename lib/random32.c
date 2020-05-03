@@ -1,1 +1,1 @@
-../..//linux//lib/random32.c
+/home/quirinpa/linux/lib/random32.c

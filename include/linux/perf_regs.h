@@ -1,1 +1,1 @@
-../../..//linux//include/linux/perf_regs.h
+/home/quirinpa/linux/include/linux/perf_regs.h

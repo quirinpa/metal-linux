@@ -1,1 +1,1 @@
-../..//linux//kernel/signal.c
+/home/quirinpa/linux/kernel/signal.c

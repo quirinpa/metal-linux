@@ -1,1 +1,1 @@
-../..//linux//kernel/sys_ni.c
+/home/quirinpa/linux/kernel/sys_ni.c

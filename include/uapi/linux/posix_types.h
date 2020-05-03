@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/posix_types.h
+/home/quirinpa/linux/include/uapi/linux/posix_types.h

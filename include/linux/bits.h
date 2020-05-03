@@ -1,1 +1,1 @@
-../../..//linux//include/linux/bits.h
+/home/quirinpa/linux/include/linux/bits.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/mman.h
+/home/quirinpa/linux/include/uapi/linux/mman.h

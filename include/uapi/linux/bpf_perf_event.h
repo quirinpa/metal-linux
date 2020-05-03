@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/bpf_perf_event.h
+/home/quirinpa/linux/include/uapi/linux/bpf_perf_event.h

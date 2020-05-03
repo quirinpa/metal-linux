@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/utsname.h
+/home/quirinpa/linux/include/uapi/linux/utsname.h

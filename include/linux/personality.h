@@ -1,1 +1,1 @@
-../../..//linux//include/linux/personality.h
+/home/quirinpa/linux/include/linux/personality.h

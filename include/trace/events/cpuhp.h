@@ -1,1 +1,1 @@
-../../../..//linux//include/trace/events/cpuhp.h
+/home/quirinpa/linux/include/trace/events/cpuhp.h

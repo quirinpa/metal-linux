@@ -1,1 +1,1 @@
-../../..//linux//include/linux/suspend.h
+/home/quirinpa/linux/include/linux/suspend.h

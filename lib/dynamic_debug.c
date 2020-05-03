@@ -1,1 +1,1 @@
-../..//linux//lib/dynamic_debug.c
+/home/quirinpa/linux/lib/dynamic_debug.c

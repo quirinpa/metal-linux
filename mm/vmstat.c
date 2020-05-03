@@ -1,1 +1,1 @@
-../..//linux//mm/vmstat.c
+/home/quirinpa/linux/mm/vmstat.c

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/parser.h
+/home/quirinpa/linux/include/linux/parser.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/clk/clk-conf.h
+/home/quirinpa/linux/include/linux/clk/clk-conf.h

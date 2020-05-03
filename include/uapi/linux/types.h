@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/types.h
+/home/quirinpa/linux/include/uapi/linux/types.h

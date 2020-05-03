@@ -1,1 +1,1 @@
-../..//linux//kernel/exit.c
+/home/quirinpa/linux/kernel/exit.c

@@ -1,1 +1,1 @@
-../..//linux//lib/earlycpio.c
+/home/quirinpa/linux/lib/earlycpio.c

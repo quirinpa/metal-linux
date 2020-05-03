@@ -1,1 +1,1 @@
-../..//linux//mm/slab_common.c
+/home/quirinpa/linux/mm/slab_common.c

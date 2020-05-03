@@ -1,1 +1,1 @@
-../../..//linux//include/linux/gcd.h
+/home/quirinpa/linux/include/linux/gcd.h

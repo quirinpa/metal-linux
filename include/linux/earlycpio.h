@@ -1,1 +1,1 @@
-../../..//linux//include/linux/earlycpio.h
+/home/quirinpa/linux/include/linux/earlycpio.h

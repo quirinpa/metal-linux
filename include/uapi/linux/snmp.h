@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/snmp.h
+/home/quirinpa/linux/include/uapi/linux/snmp.h

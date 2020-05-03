@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/compat.h
+/home/quirinpa/linux/include/asm-generic/compat.h

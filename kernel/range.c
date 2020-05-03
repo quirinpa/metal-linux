@@ -1,1 +1,1 @@
-../..//linux//kernel/range.c
+/home/quirinpa/linux/kernel/range.c

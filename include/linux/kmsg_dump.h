@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kmsg_dump.h
+/home/quirinpa/linux/include/linux/kmsg_dump.h

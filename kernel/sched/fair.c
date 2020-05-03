@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/fair.c
+/home/quirinpa/linux/kernel/sched/fair.c

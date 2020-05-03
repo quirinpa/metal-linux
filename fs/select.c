@@ -1,1 +1,1 @@
-../..//linux//fs/select.c
+/home/quirinpa/linux/fs/select.c

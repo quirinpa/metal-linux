@@ -1,1 +1,1 @@
-../../..//linux//include/linux/list_lru.h
+/home/quirinpa/linux/include/linux/list_lru.h

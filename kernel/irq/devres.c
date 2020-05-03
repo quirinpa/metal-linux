@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/devres.c
+/home/quirinpa/linux/kernel/irq/devres.c

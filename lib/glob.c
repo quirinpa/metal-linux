@@ -1,1 +1,1 @@
-../..//linux//lib/glob.c
+/home/quirinpa/linux/lib/glob.c

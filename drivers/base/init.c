@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/init.c
+/home/quirinpa/linux/drivers/base/init.c

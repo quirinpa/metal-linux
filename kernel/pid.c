@@ -1,1 +1,1 @@
-../..//linux//kernel/pid.c
+/home/quirinpa/linux/kernel/pid.c

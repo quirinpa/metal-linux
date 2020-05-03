@@ -1,1 +1,1 @@
-../../..//linux//include/linux/smpboot.h
+/home/quirinpa/linux/include/linux/smpboot.h

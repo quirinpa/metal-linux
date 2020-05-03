@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stackdepot.h
+/home/quirinpa/linux/include/linux/stackdepot.h

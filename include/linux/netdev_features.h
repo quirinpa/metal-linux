@@ -1,1 +1,1 @@
-../../..//linux//include/linux/netdev_features.h
+/home/quirinpa/linux/include/linux/netdev_features.h

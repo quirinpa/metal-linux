@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/current.h
+/home/quirinpa/linux/include/asm-generic/current.h

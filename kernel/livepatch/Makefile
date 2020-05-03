@@ -1,1 +1,1 @@
-../../..//linux//kernel/livepatch/Makefile
+/home/quirinpa/linux/kernel/livepatch/Makefile

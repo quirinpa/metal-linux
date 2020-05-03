@@ -1,1 +1,1 @@
-../..//linux//drivers/Makefile
+/home/quirinpa/linux/drivers/Makefile

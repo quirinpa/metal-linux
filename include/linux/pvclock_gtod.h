@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pvclock_gtod.h
+/home/quirinpa/linux/include/linux/pvclock_gtod.h

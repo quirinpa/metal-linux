@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kernfs.h
+/home/quirinpa/linux/include/linux/kernfs.h

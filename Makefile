@@ -2,12 +2,13 @@
 # .POSIX:
 
 srcdir=${PWD}
-include ../../wasm.mk
+linux-srcdir=${HOME}/linux
+include ../wasm.mk
 include scripts/Makefile.common
 
 WASMBROWSER?=chrome
 
-EXE = build/metal.wasm
+EXE = metal.wasm
 init-y			:= init/
 drivers-y		:= drivers/
 libs-y			:= lib/
@@ -127,4 +128,10 @@ tags:
 	${Q2}${CTAGS} `find ${vmlinux-dirs} include arch/${ARCH}/include \
 	    -name '*.c' -or -name '*.h'`
 
-.PHONY: run install tags debug
+relink: broken
+	cat broken | while read file ; do ln -fs ${linux-srcdir}/$$file ./$$file ; done
+
+broken:
+	find . -type l -exec file {} \; | grep broken | sed -e 's/^.\///' -e 's/:.*//' >$@
+
+.PHONY: run install tags debug relink

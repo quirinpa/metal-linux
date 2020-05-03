@@ -1,1 +1,1 @@
-../..//linux//kernel/umh.c
+/home/quirinpa/linux/kernel/umh.c

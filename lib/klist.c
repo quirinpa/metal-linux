@@ -1,1 +1,1 @@
-../..//linux//lib/klist.c
+/home/quirinpa/linux/lib/klist.c

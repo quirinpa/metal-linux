@@ -1,1 +1,1 @@
-../..//linux//fs/namei.c
+/home/quirinpa/linux/fs/namei.c

@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/loadavg.h
+/home/quirinpa/linux/include/linux/sched/loadavg.h

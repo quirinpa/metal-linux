@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/posix_acl_xattr.h
+/home/quirinpa/linux/include/uapi/linux/posix_acl_xattr.h

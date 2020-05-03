@@ -1,1 +1,1 @@
-../../../..//linux//drivers/media/tuners/Makefile
+/home/quirinpa/linux/drivers/media/tuners/Makefile

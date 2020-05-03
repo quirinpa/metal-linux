@@ -1,1 +1,1 @@
-../../..//linux//include/linux/dcookies.h
+/home/quirinpa/linux/include/linux/dcookies.h

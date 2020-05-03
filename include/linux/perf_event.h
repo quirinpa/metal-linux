@@ -1,1 +1,1 @@
-../../..//linux//include/linux/perf_event.h
+/home/quirinpa/linux/include/linux/perf_event.h

@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/bug.h
+/home/quirinpa/linux/include/asm-generic/bug.h

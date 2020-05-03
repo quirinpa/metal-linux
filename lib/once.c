@@ -1,1 +1,1 @@
-../..//linux//lib/once.c
+/home/quirinpa/linux/lib/once.c

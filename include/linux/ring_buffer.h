@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ring_buffer.h
+/home/quirinpa/linux/include/linux/ring_buffer.h

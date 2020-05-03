@@ -1,1 +1,1 @@
-../../..//linux//include/linux/dma-mapping.h
+/home/quirinpa/linux/include/linux/dma-mapping.h

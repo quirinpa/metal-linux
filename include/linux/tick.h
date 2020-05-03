@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tick.h
+/home/quirinpa/linux/include/linux/tick.h

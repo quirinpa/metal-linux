@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/resource.h
+/home/quirinpa/linux/include/uapi/asm-generic/resource.h

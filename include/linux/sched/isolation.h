@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/isolation.h
+/home/quirinpa/linux/include/linux/sched/isolation.h

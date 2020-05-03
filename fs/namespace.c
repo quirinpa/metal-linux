@@ -1,1 +1,1 @@
-../..//linux//fs/namespace.c
+/home/quirinpa/linux/fs/namespace.c

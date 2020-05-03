@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/wait.h
+/home/quirinpa/linux/include/uapi/linux/wait.h

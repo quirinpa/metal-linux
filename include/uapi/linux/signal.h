@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/signal.h
+/home/quirinpa/linux/include/uapi/linux/signal.h

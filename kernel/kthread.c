@@ -1,1 +1,1 @@
-../..//linux//kernel/kthread.c
+/home/quirinpa/linux/kernel/kthread.c

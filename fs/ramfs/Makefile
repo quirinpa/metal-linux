@@ -1,1 +1,1 @@
-../../..//linux//fs/ramfs/Makefile
+/home/quirinpa/linux/fs/ramfs/Makefile

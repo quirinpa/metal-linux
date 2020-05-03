@@ -1,1 +1,1 @@
-../../..//linux//include/linux/buffer_head.h
+/home/quirinpa/linux/include/linux/buffer_head.h

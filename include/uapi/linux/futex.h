@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/futex.h
+/home/quirinpa/linux/include/uapi/linux/futex.h

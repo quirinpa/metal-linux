@@ -1,1 +1,1 @@
-../../..//linux//include/crypto/skcipher.h
+/home/quirinpa/linux/include/crypto/skcipher.h

@@ -1,1 +1,1 @@
-../..//linux//fs/readdir.c
+/home/quirinpa/linux/fs/readdir.c

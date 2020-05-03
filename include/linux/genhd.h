@@ -1,1 +1,1 @@
-../../..//linux//include/linux/genhd.h
+/home/quirinpa/linux/include/linux/genhd.h

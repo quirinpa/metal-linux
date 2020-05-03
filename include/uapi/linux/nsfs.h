@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/nsfs.h
+/home/quirinpa/linux/include/uapi/linux/nsfs.h

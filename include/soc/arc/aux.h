@@ -1,1 +1,1 @@
-../../../..//linux//include/soc/arc/aux.h
+/home/quirinpa/linux/include/soc/arc/aux.h

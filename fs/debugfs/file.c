@@ -1,1 +1,1 @@
-../../..//linux//fs/debugfs/file.c
+/home/quirinpa/linux/fs/debugfs/file.c

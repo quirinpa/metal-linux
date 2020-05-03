@@ -1,1 +1,1 @@
-../..//linux//kernel/ksysfs.c
+/home/quirinpa/linux/kernel/ksysfs.c

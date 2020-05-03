@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/decompress/mm.h
+/home/quirinpa/linux/include/linux/decompress/mm.h

@@ -1,1 +1,1 @@
-../..//linux//lib/atomic64.c
+/home/quirinpa/linux/lib/atomic64.c

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/vt_kern.h
+/home/quirinpa/linux/include/linux/vt_kern.h

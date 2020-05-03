@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/tty_ldisc.c
+/home/quirinpa/linux/drivers/tty/tty_ldisc.c

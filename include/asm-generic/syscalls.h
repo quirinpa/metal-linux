@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/syscalls.h
+/home/quirinpa/linux/include/asm-generic/syscalls.h

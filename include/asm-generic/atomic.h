@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/atomic.h
+/home/quirinpa/linux/include/asm-generic/atomic.h

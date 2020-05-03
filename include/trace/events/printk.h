@@ -1,1 +1,1 @@
-../../../..//linux//include/trace/events/printk.h
+/home/quirinpa/linux/include/trace/events/printk.h

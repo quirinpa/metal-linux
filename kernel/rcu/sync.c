@@ -1,1 +1,1 @@
-../../..//linux//kernel/rcu/sync.c
+/home/quirinpa/linux/kernel/rcu/sync.c

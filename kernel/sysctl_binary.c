@@ -1,1 +1,1 @@
-../..//linux//kernel/sysctl_binary.c
+/home/quirinpa/linux/kernel/sysctl_binary.c

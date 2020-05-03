@@ -1,1 +1,1 @@
-../../..//linux//fs/devpts/Makefile
+/home/quirinpa/linux/fs/devpts/Makefile

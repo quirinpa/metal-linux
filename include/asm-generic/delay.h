@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/delay.h
+/home/quirinpa/linux/include/asm-generic/delay.h

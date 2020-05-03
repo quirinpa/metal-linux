@@ -1,1 +1,1 @@
-../../..//linux//include/linux/proc_fs.h
+/home/quirinpa/linux/include/linux/proc_fs.h

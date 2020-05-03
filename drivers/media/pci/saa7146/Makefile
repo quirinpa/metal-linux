@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/saa7146/Makefile
+/home/quirinpa/linux/drivers/media/pci/saa7146/Makefile

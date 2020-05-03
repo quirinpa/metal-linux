@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/fs.h
+/home/quirinpa/linux/include/uapi/linux/fs.h

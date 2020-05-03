@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tty.h
+/home/quirinpa/linux/include/linux/tty.h

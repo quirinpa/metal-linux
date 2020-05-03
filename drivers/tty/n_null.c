@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/n_null.c
+/home/quirinpa/linux/drivers/tty/n_null.c

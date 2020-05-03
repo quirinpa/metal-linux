@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kfifo.h
+/home/quirinpa/linux/include/linux/kfifo.h

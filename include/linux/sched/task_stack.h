@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/task_stack.h
+/home/quirinpa/linux/include/linux/sched/task_stack.h

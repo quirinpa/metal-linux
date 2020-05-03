@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/dummychip.c
+/home/quirinpa/linux/kernel/irq/dummychip.c

@@ -1,1 +1,1 @@
-../..//linux//lib/vsprintf.c
+/home/quirinpa/linux/lib/vsprintf.c

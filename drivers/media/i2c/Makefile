@@ -1,1 +1,1 @@
-../../../..//linux//drivers/media/i2c/Makefile
+/home/quirinpa/linux/drivers/media/i2c/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mempolicy.h
+/home/quirinpa/linux/include/linux/mempolicy.h

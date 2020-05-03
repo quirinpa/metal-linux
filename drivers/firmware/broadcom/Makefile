@@ -1,1 +1,1 @@
-../../../..//linux//drivers/firmware/broadcom/Makefile
+/home/quirinpa/linux/drivers/firmware/broadcom/Makefile

@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/attribute_container.c
+/home/quirinpa/linux/drivers/base/attribute_container.c

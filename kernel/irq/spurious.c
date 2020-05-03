@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/spurious.c
+/home/quirinpa/linux/kernel/irq/spurious.c

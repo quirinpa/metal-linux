@@ -1,1 +1,1 @@
-../..//linux//init/main.c
+/home/quirinpa/linux/init/main.c

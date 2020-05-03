@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/prctl.h
+/home/quirinpa/linux/include/uapi/linux/prctl.h

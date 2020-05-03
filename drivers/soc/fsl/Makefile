@@ -1,1 +1,1 @@
-../../../..//linux//drivers/soc/fsl/Makefile
+/home/quirinpa/linux/drivers/soc/fsl/Makefile

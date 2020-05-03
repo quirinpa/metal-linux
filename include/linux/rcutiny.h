@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rcutiny.h
+/home/quirinpa/linux/include/linux/rcutiny.h

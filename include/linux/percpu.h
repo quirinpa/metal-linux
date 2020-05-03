@@ -1,1 +1,1 @@
-../../..//linux//include/linux/percpu.h
+/home/quirinpa/linux/include/linux/percpu.h

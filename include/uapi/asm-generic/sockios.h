@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/sockios.h
+/home/quirinpa/linux/include/uapi/asm-generic/sockios.h

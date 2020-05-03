@@ -1,1 +1,1 @@
-../../../..//linux//include/asm-generic/bitops/sched.h
+/home/quirinpa/linux/include/asm-generic/bitops/sched.h

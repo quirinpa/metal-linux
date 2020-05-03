@@ -1,1 +1,1 @@
-../..//linux//lib/dec_and_lock.c
+/home/quirinpa/linux/lib/dec_and_lock.c

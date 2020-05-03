@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tracefs.h
+/home/quirinpa/linux/include/linux/tracefs.h

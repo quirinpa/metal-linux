@@ -1,1 +1,1 @@
-../../..//linux//include/linux/cryptohash.h
+/home/quirinpa/linux/include/linux/cryptohash.h

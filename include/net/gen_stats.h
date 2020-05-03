@@ -1,1 +1,1 @@
-../../..//linux//include/net/gen_stats.h
+/home/quirinpa/linux/include/net/gen_stats.h

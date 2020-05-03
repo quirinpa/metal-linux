@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/dd.c
+/home/quirinpa/linux/drivers/base/dd.c

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rwlock.h
+/home/quirinpa/linux/include/linux/rwlock.h

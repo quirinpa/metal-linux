@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tracehook.h
+/home/quirinpa/linux/include/linux/tracehook.h

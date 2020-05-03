@@ -1,1 +1,1 @@
-../..//linux//lib/clz_ctz.c
+/home/quirinpa/linux/lib/clz_ctz.c

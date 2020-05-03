@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/deadline.c
+/home/quirinpa/linux/kernel/sched/deadline.c

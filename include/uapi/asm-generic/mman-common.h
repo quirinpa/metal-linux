@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/mman-common.h
+/home/quirinpa/linux/include/uapi/asm-generic/mman-common.h

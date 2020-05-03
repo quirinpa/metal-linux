@@ -1,1 +1,1 @@
-../../../../../linux/arch/arc/include/asm/smp.h
+/home/quirinpa/linux/arch/arc/include/asm/smp.h

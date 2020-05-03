@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/class.c
+/home/quirinpa/linux/drivers/base/class.c

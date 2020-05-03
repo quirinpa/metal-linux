@@ -1,1 +1,1 @@
-../../..//linux//include/linux/compat.h
+/home/quirinpa/linux/include/linux/compat.h

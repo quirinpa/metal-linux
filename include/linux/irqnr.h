@@ -1,1 +1,1 @@
-../../..//linux//include/linux/irqnr.h
+/home/quirinpa/linux/include/linux/irqnr.h

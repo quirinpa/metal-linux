@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/ttusb-budget/Makefile
+/home/quirinpa/linux/drivers/media/usb/ttusb-budget/Makefile

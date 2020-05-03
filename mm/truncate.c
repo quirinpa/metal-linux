@@ -1,1 +1,1 @@
-../..//linux//mm/truncate.c
+/home/quirinpa/linux/mm/truncate.c

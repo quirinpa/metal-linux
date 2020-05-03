@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/kdev_t.h
+/home/quirinpa/linux/include/uapi/linux/kdev_t.h

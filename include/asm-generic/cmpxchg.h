@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/cmpxchg.h
+/home/quirinpa/linux/include/asm-generic/cmpxchg.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/eventpoll.h
+/home/quirinpa/linux/include/uapi/linux/eventpoll.h

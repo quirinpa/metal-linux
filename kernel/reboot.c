@@ -1,1 +1,1 @@
-../..//linux//kernel/reboot.c
+/home/quirinpa/linux/kernel/reboot.c

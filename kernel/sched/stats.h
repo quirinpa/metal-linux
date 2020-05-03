@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/stats.h
+/home/quirinpa/linux/kernel/sched/stats.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/netlink.h
+/home/quirinpa/linux/include/uapi/linux/netlink.h

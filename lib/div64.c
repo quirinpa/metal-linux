@@ -1,1 +1,1 @@
-../..//linux//lib/div64.c
+/home/quirinpa/linux/lib/div64.c

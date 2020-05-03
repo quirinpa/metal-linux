@@ -1,1 +1,1 @@
-../../..//linux//include/linux/swait.h
+/home/quirinpa/linux/include/linux/swait.h

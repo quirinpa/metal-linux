@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/trace_clock.h
+/home/quirinpa/linux/include/asm-generic/trace_clock.h

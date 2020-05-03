@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/preempt.h
+/home/quirinpa/linux/include/asm-generic/preempt.h

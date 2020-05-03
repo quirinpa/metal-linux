@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mdio.h
+/home/quirinpa/linux/include/linux/mdio.h

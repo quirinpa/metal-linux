@@ -1,1 +1,1 @@
-../..//linux//kernel/nsproxy.c
+/home/quirinpa/linux/kernel/nsproxy.c

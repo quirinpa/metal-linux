@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kgdb.h
+/home/quirinpa/linux/include/linux/kgdb.h

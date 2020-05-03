@@ -1,1 +1,1 @@
-../..//linux//fs/sync.c
+/home/quirinpa/linux/fs/sync.c

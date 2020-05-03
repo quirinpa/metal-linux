@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/dvb-usb/Makefile
+/home/quirinpa/linux/drivers/media/usb/dvb-usb/Makefile

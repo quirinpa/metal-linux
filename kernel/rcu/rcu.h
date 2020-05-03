@@ -1,1 +1,1 @@
-../../..//linux//kernel/rcu/rcu.h
+/home/quirinpa/linux/kernel/rcu/rcu.h

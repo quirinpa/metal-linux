@@ -1,1 +1,1 @@
-../..//linux//lib/bust_spinlocks.c
+/home/quirinpa/linux/lib/bust_spinlocks.c

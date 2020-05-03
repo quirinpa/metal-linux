@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/dma.h
+/home/quirinpa/linux/include/asm-generic/dma.h

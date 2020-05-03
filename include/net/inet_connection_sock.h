@@ -1,1 +1,1 @@
-../../..//linux//include/net/inet_connection_sock.h
+/home/quirinpa/linux/include/net/inet_connection_sock.h

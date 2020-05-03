@@ -1,1 +1,1 @@
-../../..//linux//include/linux/clocksource.h
+/home/quirinpa/linux/include/linux/clocksource.h

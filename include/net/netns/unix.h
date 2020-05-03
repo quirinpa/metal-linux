@@ -1,1 +1,1 @@
-../../../..//linux//include/net/netns/unix.h
+/home/quirinpa/linux/include/net/netns/unix.h

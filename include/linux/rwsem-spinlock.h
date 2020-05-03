@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rwsem-spinlock.h
+/home/quirinpa/linux/include/linux/rwsem-spinlock.h

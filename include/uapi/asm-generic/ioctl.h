@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/ioctl.h
+/home/quirinpa/linux/include/uapi/asm-generic/ioctl.h

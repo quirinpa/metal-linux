@@ -1,1 +1,1 @@
-../..//linux//mm/oom_kill.c
+/home/quirinpa/linux/mm/oom_kill.c

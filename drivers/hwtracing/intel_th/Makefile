@@ -1,1 +1,1 @@
-../../../..//linux//drivers/hwtracing/intel_th/Makefile
+/home/quirinpa/linux/drivers/hwtracing/intel_th/Makefile

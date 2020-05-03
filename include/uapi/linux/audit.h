@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/audit.h
+/home/quirinpa/linux/include/uapi/linux/audit.h

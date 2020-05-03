@@ -1,1 +1,1 @@
-../../../../../..//linux//drivers/gpu/drm/amd/lib/Makefile
+/home/quirinpa/linux/drivers/gpu/drm/amd/lib/Makefile

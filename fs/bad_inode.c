@@ -1,1 +1,1 @@
-../..//linux//fs/bad_inode.c
+/home/quirinpa/linux/fs/bad_inode.c

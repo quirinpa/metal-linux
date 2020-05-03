@@ -1,1 +1,1 @@
-../../..//linux//drivers/auxdisplay/Makefile
+/home/quirinpa/linux/drivers/auxdisplay/Makefile

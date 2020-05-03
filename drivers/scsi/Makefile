@@ -1,1 +1,1 @@
-../../..//linux//drivers/scsi/Makefile
+/home/quirinpa/linux/drivers/scsi/Makefile

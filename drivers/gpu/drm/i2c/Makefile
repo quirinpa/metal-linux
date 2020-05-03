@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/gpu/drm/i2c/Makefile
+/home/quirinpa/linux/drivers/gpu/drm/i2c/Makefile

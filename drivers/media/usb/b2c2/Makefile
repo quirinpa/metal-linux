@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/b2c2/Makefile
+/home/quirinpa/linux/drivers/media/usb/b2c2/Makefile

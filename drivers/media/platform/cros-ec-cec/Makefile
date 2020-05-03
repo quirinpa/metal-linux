@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/platform/cros-ec-cec/Makefile
+/home/quirinpa/linux/drivers/media/platform/cros-ec-cec/Makefile

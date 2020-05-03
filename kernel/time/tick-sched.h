@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/tick-sched.h
+/home/quirinpa/linux/kernel/time/tick-sched.h

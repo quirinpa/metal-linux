@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sunrpc/clnt.h
+/home/quirinpa/linux/include/linux/sunrpc/clnt.h

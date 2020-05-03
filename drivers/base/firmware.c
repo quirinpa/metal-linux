@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/firmware.c
+/home/quirinpa/linux/drivers/base/firmware.c

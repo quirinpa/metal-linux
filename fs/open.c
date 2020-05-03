@@ -1,1 +1,1 @@
-../..//linux//fs/open.c
+/home/quirinpa/linux/fs/open.c

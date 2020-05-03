@@ -1,1 +1,1 @@
-../../../../linux/arch/arc/kernel/stacktrace.c
+/home/quirinpa/linux/arch/arc/kernel/stacktrace.c

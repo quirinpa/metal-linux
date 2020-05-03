@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ksm.h
+/home/quirinpa/linux/include/linux/ksm.h

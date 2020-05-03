@@ -1,1 +1,1 @@
-../../..//linux//include/acpi/actbl.h
+/home/quirinpa/linux/include/acpi/actbl.h

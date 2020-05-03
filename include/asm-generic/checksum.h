@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/checksum.h
+/home/quirinpa/linux/include/asm-generic/checksum.h

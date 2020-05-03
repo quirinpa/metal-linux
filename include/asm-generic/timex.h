@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/timex.h
+/home/quirinpa/linux/include/asm-generic/timex.h

@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/component.c
+/home/quirinpa/linux/drivers/base/component.c

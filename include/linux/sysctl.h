@@ -1,1 +1,1 @@
-../../..//linux//include/linux/sysctl.h
+/home/quirinpa/linux/include/linux/sysctl.h

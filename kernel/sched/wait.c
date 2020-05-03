@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/wait.c
+/home/quirinpa/linux/kernel/sched/wait.c

@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/debug.h
+/home/quirinpa/linux/include/linux/sched/debug.h

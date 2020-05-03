@@ -1,1 +1,1 @@
-../../..//linux//include/linux/elfcore.h
+/home/quirinpa/linux/include/linux/elfcore.h

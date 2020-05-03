@@ -1,1 +1,1 @@
-../../..//linux//include/linux/module.h
+/home/quirinpa/linux/include/linux/module.h

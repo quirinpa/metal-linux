@@ -1,1 +1,1 @@
-../../..//linux//fs/xfs/xfs_sysctl.h
+/home/quirinpa/linux/fs/xfs/xfs_sysctl.h

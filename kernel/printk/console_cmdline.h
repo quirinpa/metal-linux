@@ -1,1 +1,1 @@
-../../..//linux//kernel/printk/console_cmdline.h
+/home/quirinpa/linux/kernel/printk/console_cmdline.h

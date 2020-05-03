@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stop_machine.h
+/home/quirinpa/linux/include/linux/stop_machine.h

@@ -1,1 +1,1 @@
-../../..//linux//include/net/timewait_sock.h
+/home/quirinpa/linux/include/net/timewait_sock.h

@@ -1,1 +1,1 @@
-../../..//linux//include/net/snmp.h
+/home/quirinpa/linux/include/net/snmp.h

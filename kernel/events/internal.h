@@ -1,1 +1,1 @@
-../../..//linux//kernel/events/internal.h
+/home/quirinpa/linux/kernel/events/internal.h

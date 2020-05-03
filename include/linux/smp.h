@@ -1,1 +1,1 @@
-../../..//linux//include/linux/smp.h
+/home/quirinpa/linux/include/linux/smp.h

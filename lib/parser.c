@@ -1,1 +1,1 @@
-../..//linux//lib/parser.c
+/home/quirinpa/linux/lib/parser.c

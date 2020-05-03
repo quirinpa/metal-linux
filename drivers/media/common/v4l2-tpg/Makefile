@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/common/v4l2-tpg/Makefile
+/home/quirinpa/linux/drivers/media/common/v4l2-tpg/Makefile

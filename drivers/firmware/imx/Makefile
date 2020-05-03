@@ -1,1 +1,1 @@
-../../../..//linux//drivers/firmware/imx/Makefile
+/home/quirinpa/linux/drivers/firmware/imx/Makefile

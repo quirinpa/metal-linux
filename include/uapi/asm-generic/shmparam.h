@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/shmparam.h
+/home/quirinpa/linux/include/uapi/asm-generic/shmparam.h

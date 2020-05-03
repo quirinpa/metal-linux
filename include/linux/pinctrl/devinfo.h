@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/pinctrl/devinfo.h
+/home/quirinpa/linux/include/linux/pinctrl/devinfo.h

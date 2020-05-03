@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/kdebug.h
+/home/quirinpa/linux/include/asm-generic/kdebug.h

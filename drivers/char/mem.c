@@ -1,1 +1,1 @@
-../../..//linux//drivers/char/mem.c
+/home/quirinpa/linux/drivers/char/mem.c

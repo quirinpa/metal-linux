@@ -1,1 +1,1 @@
-../..//linux//mm/nommu.c
+/home/quirinpa/linux/mm/nommu.c

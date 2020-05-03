@@ -1,1 +1,1 @@
-../../..//linux//include/linux/uio.h
+/home/quirinpa/linux/include/linux/uio.h

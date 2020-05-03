@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/sysctl.h
+/home/quirinpa/linux/include/linux/sched/sysctl.h

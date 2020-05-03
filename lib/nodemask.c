@@ -1,1 +1,1 @@
-../..//linux//lib/nodemask.c
+/home/quirinpa/linux/lib/nodemask.c

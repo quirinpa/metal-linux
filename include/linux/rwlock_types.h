@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rwlock_types.h
+/home/quirinpa/linux/include/linux/rwlock_types.h

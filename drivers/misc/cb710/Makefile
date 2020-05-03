@@ -1,1 +1,1 @@
-../../../..//linux//drivers/misc/cb710/Makefile
+/home/quirinpa/linux/drivers/misc/cb710/Makefile

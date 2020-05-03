@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/if_arp.h
+/home/quirinpa/linux/include/uapi/linux/if_arp.h

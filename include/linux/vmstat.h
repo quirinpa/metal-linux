@@ -1,1 +1,1 @@
-../../..//linux//include/linux/vmstat.h
+/home/quirinpa/linux/include/linux/vmstat.h

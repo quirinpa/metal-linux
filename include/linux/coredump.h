@@ -1,1 +1,1 @@
-../../..//linux//include/linux/coredump.h
+/home/quirinpa/linux/include/linux/coredump.h

@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/termios.h
+/home/quirinpa/linux/include/asm-generic/termios.h

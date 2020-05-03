@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/intel/Makefile
+/home/quirinpa/linux/drivers/media/pci/intel/Makefile

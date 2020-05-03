@@ -1,1 +1,1 @@
-../../..//linux//include/linux/extable.h
+/home/quirinpa/linux/include/linux/extable.h

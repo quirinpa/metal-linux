@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/fcntl.h
+/home/quirinpa/linux/include/uapi/asm-generic/fcntl.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/swap.h
+/home/quirinpa/linux/include/linux/swap.h

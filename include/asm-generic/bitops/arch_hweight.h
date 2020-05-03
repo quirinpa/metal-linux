@@ -1,1 +1,1 @@
-../../../..//linux//include/asm-generic/bitops/arch_hweight.h
+/home/quirinpa/linux/include/asm-generic/bitops/arch_hweight.h

@@ -1,1 +1,1 @@
-../../../..//linux//drivers/clk/bcm/Makefile
+/home/quirinpa/linux/drivers/clk/bcm/Makefile

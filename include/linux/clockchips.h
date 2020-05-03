@@ -1,1 +1,1 @@
-../../..//linux//include/linux/clockchips.h
+/home/quirinpa/linux/include/linux/clockchips.h

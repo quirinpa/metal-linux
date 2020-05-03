@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/chip.c
+/home/quirinpa/linux/kernel/irq/chip.c

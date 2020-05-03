@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/pelt.h
+/home/quirinpa/linux/kernel/sched/pelt.h

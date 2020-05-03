@@ -1,1 +1,1 @@
-../../..//linux//include/linux/linkage.h
+/home/quirinpa/linux/include/linux/linkage.h

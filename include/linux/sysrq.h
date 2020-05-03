@@ -1,1 +1,1 @@
-../../..//linux//include/linux/sysrq.h
+/home/quirinpa/linux/include/linux/sysrq.h

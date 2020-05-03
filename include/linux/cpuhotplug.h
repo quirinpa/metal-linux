@@ -1,1 +1,1 @@
-../../..//linux//include/linux/cpuhotplug.h
+/home/quirinpa/linux/include/linux/cpuhotplug.h

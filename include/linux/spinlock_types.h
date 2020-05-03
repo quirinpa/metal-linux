@@ -1,1 +1,1 @@
-../../..//linux//include/linux/spinlock_types.h
+/home/quirinpa/linux/include/linux/spinlock_types.h

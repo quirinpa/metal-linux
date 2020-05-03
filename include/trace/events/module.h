@@ -1,1 +1,1 @@
-../../../..//linux//include/trace/events/module.h
+/home/quirinpa/linux/include/trace/events/module.h

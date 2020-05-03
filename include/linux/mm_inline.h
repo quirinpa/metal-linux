@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mm_inline.h
+/home/quirinpa/linux/include/linux/mm_inline.h

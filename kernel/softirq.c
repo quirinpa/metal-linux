@@ -1,1 +1,1 @@
-../..//linux//kernel/softirq.c
+/home/quirinpa/linux/kernel/softirq.c

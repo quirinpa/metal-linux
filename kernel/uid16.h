@@ -1,1 +1,1 @@
-../..//linux//kernel/uid16.h
+/home/quirinpa/linux/kernel/uid16.h

@@ -1,1 +1,1 @@
-../../../..//linux//drivers/media/firewire/Makefile
+/home/quirinpa/linux/drivers/media/firewire/Makefile

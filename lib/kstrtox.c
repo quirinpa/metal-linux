@@ -1,1 +1,1 @@
-../..//linux//lib/kstrtox.c
+/home/quirinpa/linux/lib/kstrtox.c

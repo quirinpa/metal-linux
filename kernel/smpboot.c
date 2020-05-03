@@ -1,1 +1,1 @@
-../..//linux//kernel/smpboot.c
+/home/quirinpa/linux/kernel/smpboot.c

@@ -1,1 +1,1 @@
-../../../../../linux/arch/arc/include/asm/elf.h
+/home/quirinpa/linux/arch/arc/include/asm/elf.h

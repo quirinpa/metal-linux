@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/tty_mutex.c
+/home/quirinpa/linux/drivers/tty/tty_mutex.c

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/const.h
+/home/quirinpa/linux/include/uapi/linux/const.h

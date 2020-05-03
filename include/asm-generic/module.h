@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/module.h
+/home/quirinpa/linux/include/asm-generic/module.h

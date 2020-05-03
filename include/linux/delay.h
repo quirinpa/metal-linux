@@ -1,1 +1,1 @@
-../../..//linux//include/linux/delay.h
+/home/quirinpa/linux/include/linux/delay.h

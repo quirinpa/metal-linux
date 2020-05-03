@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/ntp.c
+/home/quirinpa/linux/kernel/time/ntp.c

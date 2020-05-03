@@ -1,1 +1,1 @@
-../../..//linux//include/linux/initrd.h
+/home/quirinpa/linux/include/linux/initrd.h

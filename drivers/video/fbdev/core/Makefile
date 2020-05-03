@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/video/fbdev/core/Makefile
+/home/quirinpa/linux/drivers/video/fbdev/core/Makefile

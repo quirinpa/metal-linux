@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/timeconv.c
+/home/quirinpa/linux/kernel/time/timeconv.c

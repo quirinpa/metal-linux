@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/syscore.c
+/home/quirinpa/linux/drivers/base/syscore.c

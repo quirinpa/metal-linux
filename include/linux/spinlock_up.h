@@ -1,1 +1,1 @@
-../../..//linux//include/linux/spinlock_up.h
+/home/quirinpa/linux/include/linux/spinlock_up.h

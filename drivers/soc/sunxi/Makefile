@@ -1,1 +1,1 @@
-../../../..//linux//drivers/soc/sunxi/Makefile
+/home/quirinpa/linux/drivers/soc/sunxi/Makefile

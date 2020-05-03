@@ -1,1 +1,1 @@
-../../../../..//linux/arch/arc/include/asm/syscall.h
+/home/quirinpa/linux/arch/arc/include/asm/syscall.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kmod.h
+/home/quirinpa/linux/include/linux/kmod.h

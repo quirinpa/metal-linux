@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mm_types_task.h
+/home/quirinpa/linux/include/linux/mm_types_task.h

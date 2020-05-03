@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/keyboard.h
+/home/quirinpa/linux/include/uapi/linux/keyboard.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/signal.h
+/home/quirinpa/linux/include/uapi/asm-generic/signal.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fs_pin.h
+/home/quirinpa/linux/include/linux/fs_pin.h

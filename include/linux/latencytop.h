@@ -1,1 +1,1 @@
-../../..//linux//include/linux/latencytop.h
+/home/quirinpa/linux/include/linux/latencytop.h

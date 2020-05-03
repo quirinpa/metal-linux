@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/platform/meson/Makefile
+/home/quirinpa/linux/drivers/media/platform/meson/Makefile

@@ -1,1 +1,1 @@
-../..//linux//fs/d_path.c
+/home/quirinpa/linux/fs/d_path.c

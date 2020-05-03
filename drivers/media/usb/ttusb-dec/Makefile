@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/usb/ttusb-dec/Makefile
+/home/quirinpa/linux/drivers/media/usb/ttusb-dec/Makefile

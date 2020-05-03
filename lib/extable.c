@@ -1,1 +1,1 @@
-../..//linux//lib/extable.c
+/home/quirinpa/linux/lib/extable.c

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/keyctl.h
+/home/quirinpa/linux/include/uapi/linux/keyctl.h

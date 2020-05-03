@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/mantis/Makefile
+/home/quirinpa/linux/drivers/media/pci/mantis/Makefile

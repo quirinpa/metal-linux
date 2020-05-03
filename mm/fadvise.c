@@ -1,1 +1,1 @@
-../..//linux//mm/fadvise.c
+/home/quirinpa/linux/mm/fadvise.c

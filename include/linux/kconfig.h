@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kconfig.h
+/home/quirinpa/linux/include/linux/kconfig.h

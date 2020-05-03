@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kdebug.h
+/home/quirinpa/linux/include/linux/kdebug.h

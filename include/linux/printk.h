@@ -1,1 +1,1 @@
-../../..//linux//include/linux/printk.h
+/home/quirinpa/linux/include/linux/printk.h

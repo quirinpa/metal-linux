@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/swait.c
+/home/quirinpa/linux/kernel/sched/swait.c

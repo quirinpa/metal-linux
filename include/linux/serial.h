@@ -1,1 +1,1 @@
-../../..//linux//include/linux/serial.h
+/home/quirinpa/linux/include/linux/serial.h

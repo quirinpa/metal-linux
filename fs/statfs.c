@@ -1,1 +1,1 @@
-../..//linux//fs/statfs.c
+/home/quirinpa/linux/fs/statfs.c

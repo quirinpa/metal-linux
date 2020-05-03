@@ -1,1 +1,1 @@
-../../../..//linux//drivers/clk/ingenic/Makefile
+/home/quirinpa/linux/drivers/clk/ingenic/Makefile

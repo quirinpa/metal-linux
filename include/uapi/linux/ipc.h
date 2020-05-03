@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/ipc.h
+/home/quirinpa/linux/include/uapi/linux/ipc.h

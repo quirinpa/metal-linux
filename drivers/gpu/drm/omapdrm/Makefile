@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/gpu/drm/omapdrm/Makefile
+/home/quirinpa/linux/drivers/gpu/drm/omapdrm/Makefile

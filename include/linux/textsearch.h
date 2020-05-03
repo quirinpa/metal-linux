@@ -1,1 +1,1 @@
-../../..//linux//include/linux/textsearch.h
+/home/quirinpa/linux/include/linux/textsearch.h

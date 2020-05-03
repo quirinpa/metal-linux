@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/raw.h
+/home/quirinpa/linux/include/uapi/linux/raw.h

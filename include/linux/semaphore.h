@@ -1,1 +1,1 @@
-../../..//linux//include/linux/semaphore.h
+/home/quirinpa/linux/include/linux/semaphore.h

@@ -1,1 +1,1 @@
-../../../..//linux//drivers/char/agp/Makefile
+/home/quirinpa/linux/drivers/char/agp/Makefile

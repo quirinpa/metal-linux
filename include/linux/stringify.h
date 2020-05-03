@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stringify.h
+/home/quirinpa/linux/include/linux/stringify.h

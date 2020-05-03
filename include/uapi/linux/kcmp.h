@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/kcmp.h
+/home/quirinpa/linux/include/uapi/linux/kcmp.h

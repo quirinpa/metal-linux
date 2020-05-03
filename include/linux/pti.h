@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pti.h
+/home/quirinpa/linux/include/linux/pti.h

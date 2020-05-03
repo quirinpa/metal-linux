@@ -1,1 +1,1 @@
-../..//linux//init/init_task.c
+/home/quirinpa/linux/init/init_task.c

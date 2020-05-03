@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/tty_io.c
+/home/quirinpa/linux/drivers/tty/tty_io.c

@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/pgtable-nopud.h
+/home/quirinpa/linux/include/asm-generic/pgtable-nopud.h

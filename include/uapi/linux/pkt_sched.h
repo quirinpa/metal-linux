@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/pkt_sched.h
+/home/quirinpa/linux/include/uapi/linux/pkt_sched.h

@@ -1,1 +1,1 @@
-../../..//linux//kernel/locking/rwsem-spinlock.c
+/home/quirinpa/linux/kernel/locking/rwsem-spinlock.c

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/vt_buffer.h
+/home/quirinpa/linux/include/linux/vt_buffer.h

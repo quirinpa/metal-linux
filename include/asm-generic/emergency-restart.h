@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/emergency-restart.h
+/home/quirinpa/linux/include/asm-generic/emergency-restart.h

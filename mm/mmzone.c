@@ -1,1 +1,1 @@
-../..//linux//mm/mmzone.c
+/home/quirinpa/linux/mm/mmzone.c

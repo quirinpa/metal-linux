@@ -1,1 +1,1 @@
-../..//linux//init/noinitramfs.c
+/home/quirinpa/linux/init/noinitramfs.c

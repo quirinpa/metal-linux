@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/tlb.h
+/home/quirinpa/linux/include/asm-generic/tlb.h

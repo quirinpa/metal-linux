@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/reboot.h
+/home/quirinpa/linux/include/uapi/linux/reboot.h

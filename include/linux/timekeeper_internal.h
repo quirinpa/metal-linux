@@ -1,1 +1,1 @@
-../../..//linux//include/linux/timekeeper_internal.h
+/home/quirinpa/linux/include/linux/timekeeper_internal.h

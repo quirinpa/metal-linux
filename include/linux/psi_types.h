@@ -1,1 +1,1 @@
-../../..//linux//include/linux/psi_types.h
+/home/quirinpa/linux/include/linux/psi_types.h

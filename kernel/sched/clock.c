@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/clock.c
+/home/quirinpa/linux/kernel/sched/clock.c

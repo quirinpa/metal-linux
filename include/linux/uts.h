@@ -1,1 +1,1 @@
-../../..//linux//include/linux/uts.h
+/home/quirinpa/linux/include/linux/uts.h

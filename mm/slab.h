@@ -1,1 +1,1 @@
-../..//linux//mm/slab.h
+/home/quirinpa/linux/mm/slab.h

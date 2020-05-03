@@ -1,1 +1,1 @@
-../..//linux//mm/mmap.c
+/home/quirinpa/linux/mm/mmap.c

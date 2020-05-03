@@ -1,1 +1,1 @@
-../../../../..//linux/arch/arc/include/asm/arcregs.h
+/home/quirinpa/linux/arch/arc/include/asm/arcregs.h

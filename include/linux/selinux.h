@@ -1,1 +1,1 @@
-../../..//linux//include/linux/selinux.h
+/home/quirinpa/linux/include/linux/selinux.h

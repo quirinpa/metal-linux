@@ -1,1 +1,1 @@
-../../..//linux//include/net/net_namespace.h
+/home/quirinpa/linux/include/net/net_namespace.h

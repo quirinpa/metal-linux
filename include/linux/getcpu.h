@@ -1,1 +1,1 @@
-../../..//linux//include/linux/getcpu.h
+/home/quirinpa/linux/include/linux/getcpu.h

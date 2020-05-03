@@ -1,1 +1,1 @@
-../../..//linux//include/linux/elf.h
+/home/quirinpa/linux/include/linux/elf.h

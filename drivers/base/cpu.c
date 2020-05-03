@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/cpu.c
+/home/quirinpa/linux/drivers/base/cpu.c

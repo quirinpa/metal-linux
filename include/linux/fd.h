@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fd.h
+/home/quirinpa/linux/include/linux/fd.h

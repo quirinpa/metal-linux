@@ -1,1 +1,1 @@
-../../..//linux//drivers/char/misc.c
+/home/quirinpa/linux/drivers/char/misc.c

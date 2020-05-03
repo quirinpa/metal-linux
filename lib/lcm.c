@@ -1,1 +1,1 @@
-../..//linux//lib/lcm.c
+/home/quirinpa/linux/lib/lcm.c

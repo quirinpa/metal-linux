@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/irq.h
+/home/quirinpa/linux/include/asm-generic/irq.h

@@ -1,1 +1,1 @@
-../../..//linux//include/net/sock.h
+/home/quirinpa/linux/include/net/sock.h

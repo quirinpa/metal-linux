@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/ioctl.h
+/home/quirinpa/linux/include/uapi/linux/ioctl.h

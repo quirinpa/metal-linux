@@ -1,6 +1,6 @@
 .SUFFIXES: .d .a
 
-include ${srcdir}/../../wasm.mk
+include ${srcdir}/../wasm.mk
 include Makefile.common
 include .config
 

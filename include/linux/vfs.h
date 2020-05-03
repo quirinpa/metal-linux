@@ -1,1 +1,1 @@
-../../..//linux//include/linux/vfs.h
+/home/quirinpa/linux/include/linux/vfs.h

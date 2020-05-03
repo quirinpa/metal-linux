@@ -1,1 +1,1 @@
-../../..//linux//include/linux/typecheck.h
+/home/quirinpa/linux/include/linux/typecheck.h

@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/video/fbdev/omap2/Makefile
+/home/quirinpa/linux/drivers/video/fbdev/omap2/Makefile

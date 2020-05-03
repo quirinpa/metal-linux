@@ -1,1 +1,1 @@
-../../..//linux//kernel/sched/cpupri.h
+/home/quirinpa/linux/kernel/sched/cpupri.h

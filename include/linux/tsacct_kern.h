@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tsacct_kern.h
+/home/quirinpa/linux/include/linux/tsacct_kern.h

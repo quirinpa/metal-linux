@@ -1,1 +1,1 @@
-../..//linux//lib/bcd.c
+/home/quirinpa/linux/lib/bcd.c

@@ -1,1 +1,1 @@
-../../../../include/asm-generic/asm-offsets.h
+/home/quirinpa/linux/include/asm-generic/asm-offsets.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pkeys.h
+/home/quirinpa/linux/include/linux/pkeys.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/acpi/platform/acgccex.h
+/home/quirinpa/linux/include/acpi/platform/acgccex.h

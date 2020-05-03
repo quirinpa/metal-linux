@@ -1,1 +1,1 @@
-../../..//linux//include/linux/trace.h
+/home/quirinpa/linux/include/linux/trace.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/tcp.h
+/home/quirinpa/linux/include/linux/tcp.h

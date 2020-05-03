@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kern_levels.h
+/home/quirinpa/linux/include/linux/kern_levels.h

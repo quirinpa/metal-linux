@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pm_runtime.h
+/home/quirinpa/linux/include/linux/pm_runtime.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/mqueue.h
+/home/quirinpa/linux/include/uapi/linux/mqueue.h

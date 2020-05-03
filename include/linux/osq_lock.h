@@ -1,1 +1,1 @@
-../../..//linux//include/linux/osq_lock.h
+/home/quirinpa/linux/include/linux/osq_lock.h

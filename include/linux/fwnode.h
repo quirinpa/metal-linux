@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fwnode.h
+/home/quirinpa/linux/include/linux/fwnode.h

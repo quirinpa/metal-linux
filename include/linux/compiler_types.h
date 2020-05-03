@@ -1,1 +1,1 @@
-../../..//linux//include/linux/compiler_types.h
+/home/quirinpa/linux/include/linux/compiler_types.h

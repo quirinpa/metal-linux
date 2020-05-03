@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/posix-timers.h
+/home/quirinpa/linux/kernel/time/posix-timers.h

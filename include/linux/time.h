@@ -1,1 +1,1 @@
-../../..//linux//include/linux/time.h
+/home/quirinpa/linux/include/linux/time.h

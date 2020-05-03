@@ -1,1 +1,1 @@
-../../..//linux//include/acpi/acexcep.h
+/home/quirinpa/linux/include/acpi/acexcep.h

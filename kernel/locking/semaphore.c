@@ -1,1 +1,1 @@
-../../..//linux//kernel/locking/semaphore.c
+/home/quirinpa/linux/kernel/locking/semaphore.c

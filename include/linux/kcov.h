@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kcov.h
+/home/quirinpa/linux/include/linux/kcov.h

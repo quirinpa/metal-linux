@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/kprobes.h
+/home/quirinpa/linux/include/asm-generic/kprobes.h

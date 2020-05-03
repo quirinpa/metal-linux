@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pm_domain.h
+/home/quirinpa/linux/include/linux/pm_domain.h

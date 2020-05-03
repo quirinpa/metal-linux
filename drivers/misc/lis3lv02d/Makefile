@@ -1,1 +1,1 @@
-../../../..//linux//drivers/misc/lis3lv02d/Makefile
+/home/quirinpa/linux/drivers/misc/lis3lv02d/Makefile

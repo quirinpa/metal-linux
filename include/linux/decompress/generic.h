@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/decompress/generic.h
+/home/quirinpa/linux/include/linux/decompress/generic.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/cn_proc.h
+/home/quirinpa/linux/include/linux/cn_proc.h

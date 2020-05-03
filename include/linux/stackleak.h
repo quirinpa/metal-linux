@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stackleak.h
+/home/quirinpa/linux/include/linux/stackleak.h

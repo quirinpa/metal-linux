@@ -1,1 +1,1 @@
-../../../..//linux//drivers/tty/ipwireless/Makefile
+/home/quirinpa/linux/drivers/tty/ipwireless/Makefile

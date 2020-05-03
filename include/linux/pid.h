@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pid.h
+/home/quirinpa/linux/include/linux/pid.h

@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/platform/stm32/Makefile
+/home/quirinpa/linux/drivers/media/platform/stm32/Makefile

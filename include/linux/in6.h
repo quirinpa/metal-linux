@@ -1,1 +1,1 @@
-../../..//linux//include/linux/in6.h
+/home/quirinpa/linux/include/linux/in6.h

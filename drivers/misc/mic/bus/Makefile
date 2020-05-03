@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/misc/mic/bus/Makefile
+/home/quirinpa/linux/drivers/misc/mic/bus/Makefile

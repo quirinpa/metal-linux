@@ -1,1 +1,1 @@
-../..//linux//lib/plist.c
+/home/quirinpa/linux/lib/plist.c

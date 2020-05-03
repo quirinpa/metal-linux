@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/timecounter.c
+/home/quirinpa/linux/kernel/time/timecounter.c

@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/timer_list.c
+/home/quirinpa/linux/kernel/time/timer_list.c

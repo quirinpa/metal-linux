@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/tty_jobctrl.c
+/home/quirinpa/linux/drivers/tty/tty_jobctrl.c

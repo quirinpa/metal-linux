@@ -1,1 +1,1 @@
-../../..//linux//include/linux/errno.h
+/home/quirinpa/linux/include/linux/errno.h

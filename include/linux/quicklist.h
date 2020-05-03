@@ -1,1 +1,1 @@
-../../..//linux//include/linux/quicklist.h
+/home/quirinpa/linux/include/linux/quicklist.h

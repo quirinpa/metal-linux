@@ -1,1 +1,1 @@
-../../..//linux//include/linux/irqflags.h
+/home/quirinpa/linux/include/linux/irqflags.h

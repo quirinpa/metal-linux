@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/word-at-a-time.h
+/home/quirinpa/linux/include/asm-generic/word-at-a-time.h

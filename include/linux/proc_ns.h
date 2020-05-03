@@ -1,1 +1,1 @@
-../../..//linux//include/linux/proc_ns.h
+/home/quirinpa/linux/include/linux/proc_ns.h

@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/gpu/drm/panel/Makefile
+/home/quirinpa/linux/drivers/gpu/drm/panel/Makefile

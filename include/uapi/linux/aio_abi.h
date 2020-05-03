@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/aio_abi.h
+/home/quirinpa/linux/include/uapi/linux/aio_abi.h

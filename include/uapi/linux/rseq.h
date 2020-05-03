@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/rseq.h
+/home/quirinpa/linux/include/uapi/linux/rseq.h

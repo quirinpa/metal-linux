@@ -1,1 +1,1 @@
-../../../..//linux//include/asm-generic/bitops/non-atomic.h
+/home/quirinpa/linux/include/asm-generic/bitops/non-atomic.h

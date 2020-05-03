@@ -1,1 +1,1 @@
-../..//linux//mm/slob.c
+/home/quirinpa/linux/mm/slob.c

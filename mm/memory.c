@@ -1,1 +1,1 @@
-../..//linux//mm/memory.c
+/home/quirinpa/linux/mm/memory.c

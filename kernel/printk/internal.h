@@ -1,1 +1,1 @@
-../../..//linux//kernel/printk/internal.h
+/home/quirinpa/linux/kernel/printk/internal.h

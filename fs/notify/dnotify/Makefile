@@ -1,1 +1,1 @@
-../../../..//linux//fs/notify/dnotify/Makefile
+/home/quirinpa/linux/fs/notify/dnotify/Makefile

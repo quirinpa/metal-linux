@@ -1,1 +1,1 @@
-../../..//linux//include/linux/nfs_xdr.h
+/home/quirinpa/linux/include/linux/nfs_xdr.h

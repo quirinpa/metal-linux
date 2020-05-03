@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/hardirq.h
+/home/quirinpa/linux/include/asm-generic/hardirq.h

@@ -1,1 +1,1 @@
-../..//linux//mm/debug.c
+/home/quirinpa/linux/mm/debug.c

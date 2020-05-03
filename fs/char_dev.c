@@ -1,1 +1,1 @@
-../..//linux//fs/char_dev.c
+/home/quirinpa/linux/fs/char_dev.c

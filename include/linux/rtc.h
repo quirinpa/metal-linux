@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rtc.h
+/home/quirinpa/linux/include/linux/rtc.h

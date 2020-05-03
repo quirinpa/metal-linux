@@ -1,1 +1,1 @@
-../../..//linux//include/linux/compiler_attributes.h
+/home/quirinpa/linux/include/linux/compiler_attributes.h

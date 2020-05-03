@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/clocksource.c
+/home/quirinpa/linux/kernel/time/clocksource.c

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ns_common.h
+/home/quirinpa/linux/include/linux/ns_common.h

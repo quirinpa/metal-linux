@@ -1,1 +1,1 @@
-../../..//linux//include/linux/pipe_fs_i.h
+/home/quirinpa/linux/include/linux/pipe_fs_i.h

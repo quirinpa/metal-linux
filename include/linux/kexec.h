@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kexec.h
+/home/quirinpa/linux/include/linux/kexec.h

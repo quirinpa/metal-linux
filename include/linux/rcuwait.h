@@ -1,1 +1,1 @@
-../../..//linux//include/linux/rcuwait.h
+/home/quirinpa/linux/include/linux/rcuwait.h

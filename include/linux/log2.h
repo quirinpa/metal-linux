@@ -1,1 +1,1 @@
-../../..//linux//include/linux/log2.h
+/home/quirinpa/linux/include/linux/log2.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/u64_stats_sync.h
+/home/quirinpa/linux/include/linux/u64_stats_sync.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/threads.h
+/home/quirinpa/linux/include/linux/threads.h

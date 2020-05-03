@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/tick-internal.h
+/home/quirinpa/linux/kernel/time/tick-internal.h

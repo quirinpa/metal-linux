@@ -1,1 +1,1 @@
-../../..//linux//include/linux/seccomp.h
+/home/quirinpa/linux/include/linux/seccomp.h

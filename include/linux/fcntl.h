@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fcntl.h
+/home/quirinpa/linux/include/linux/fcntl.h

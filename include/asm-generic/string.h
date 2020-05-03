@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/string.h
+/home/quirinpa/linux/include/asm-generic/string.h

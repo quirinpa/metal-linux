@@ -1,1 +1,1 @@
-../../../..//linux//drivers/clk/imgtec/Makefile
+/home/quirinpa/linux/drivers/clk/imgtec/Makefile

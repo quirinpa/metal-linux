@@ -1,1 +1,1 @@
-../..//linux//kernel/user.c
+/home/quirinpa/linux/kernel/user.c

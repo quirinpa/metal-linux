@@ -1,1 +1,1 @@
-../../..//linux//include/linux/jiffies.h
+/home/quirinpa/linux/include/linux/jiffies.h

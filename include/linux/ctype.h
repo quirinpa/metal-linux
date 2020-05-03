@@ -1,1 +1,1 @@
-../../..//linux//include/linux/ctype.h
+/home/quirinpa/linux/include/linux/ctype.h

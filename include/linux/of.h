@@ -1,1 +1,1 @@
-../../..//linux//include/linux/of.h
+/home/quirinpa/linux/include/linux/of.h

@@ -1,1 +1,1 @@
-../../..//linux//drivers/tty/tty_buffer.c
+/home/quirinpa/linux/drivers/tty/tty_buffer.c

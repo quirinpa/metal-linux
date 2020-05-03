@@ -1,1 +1,1 @@
-../../../..//linux//drivers/base/power/power.h
+/home/quirinpa/linux/drivers/base/power/power.h

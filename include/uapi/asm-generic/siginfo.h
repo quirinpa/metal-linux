@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/asm-generic/siginfo.h
+/home/quirinpa/linux/include/uapi/asm-generic/siginfo.h

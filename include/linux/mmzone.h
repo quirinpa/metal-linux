@@ -1,1 +1,1 @@
-../../..//linux//include/linux/mmzone.h
+/home/quirinpa/linux/include/linux/mmzone.h

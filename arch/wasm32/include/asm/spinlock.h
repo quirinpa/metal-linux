@@ -1,1 +1,1 @@
-../../../../../linux/arch/arc/include/asm/spinlock.h
+/home/quirinpa/linux/arch/arc/include/asm/spinlock.h

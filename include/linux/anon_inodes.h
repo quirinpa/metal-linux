@@ -1,1 +1,1 @@
-../../..//linux//include/linux/anon_inodes.h
+/home/quirinpa/linux/include/linux/anon_inodes.h

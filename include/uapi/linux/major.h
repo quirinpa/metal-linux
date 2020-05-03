@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/major.h
+/home/quirinpa/linux/include/uapi/linux/major.h

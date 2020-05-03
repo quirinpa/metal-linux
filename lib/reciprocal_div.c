@@ -1,1 +1,1 @@
-../..//linux//lib/reciprocal_div.c
+/home/quirinpa/linux/lib/reciprocal_div.c

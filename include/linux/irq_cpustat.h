@@ -1,1 +1,1 @@
-../../..//linux//include/linux/irq_cpustat.h
+/home/quirinpa/linux/include/linux/irq_cpustat.h

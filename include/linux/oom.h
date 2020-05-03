@@ -1,1 +1,1 @@
-../../..//linux//include/linux/oom.h
+/home/quirinpa/linux/include/linux/oom.h

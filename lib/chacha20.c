@@ -1,1 +1,1 @@
-../..//linux//lib/chacha20.c
+/home/quirinpa/linux/lib/chacha20.c

@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/jiffies.c
+/home/quirinpa/linux/kernel/time/jiffies.c

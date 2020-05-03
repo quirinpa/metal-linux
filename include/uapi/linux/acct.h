@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/acct.h
+/home/quirinpa/linux/include/uapi/linux/acct.h

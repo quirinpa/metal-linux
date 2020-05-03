@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/netup_unidvb/Makefile
+/home/quirinpa/linux/drivers/media/pci/netup_unidvb/Makefile

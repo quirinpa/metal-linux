@@ -1,1 +1,1 @@
-../../..//linux//include/linux/capability.h
+/home/quirinpa/linux/include/linux/capability.h

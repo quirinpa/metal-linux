@@ -1,1 +1,1 @@
-../../..//linux//include/linux/timex.h
+/home/quirinpa/linux/include/linux/timex.h

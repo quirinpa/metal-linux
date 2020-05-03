@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/times.h
+/home/quirinpa/linux/include/uapi/linux/times.h

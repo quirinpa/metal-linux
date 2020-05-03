@@ -1,1 +1,1 @@
-../../..//linux//include/linux/win_minmax.h
+/home/quirinpa/linux/include/linux/win_minmax.h

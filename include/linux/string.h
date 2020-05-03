@@ -1,1 +1,1 @@
-../../..//linux//include/linux/string.h
+/home/quirinpa/linux/include/linux/string.h

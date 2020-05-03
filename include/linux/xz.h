@@ -1,1 +1,1 @@
-../../..//linux//include/linux/xz.h
+/home/quirinpa/linux/include/linux/xz.h

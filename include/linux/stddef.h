@@ -1,1 +1,1 @@
-../../..//linux//include/linux/stddef.h
+/home/quirinpa/linux/include/linux/stddef.h

@@ -1,1 +1,1 @@
-../../..//linux//include/linux/node.h
+/home/quirinpa/linux/include/linux/node.h

@@ -1,1 +1,1 @@
-../../../..//linux//include/linux/sched/idle.h
+/home/quirinpa/linux/include/linux/sched/idle.h

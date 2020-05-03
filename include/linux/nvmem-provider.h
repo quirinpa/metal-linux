@@ -1,1 +1,1 @@
-../../..//linux//include/linux/nvmem-provider.h
+/home/quirinpa/linux/include/linux/nvmem-provider.h

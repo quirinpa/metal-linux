@@ -1,1 +1,1 @@
-../../..//linux//include/linux/nodemask.h
+/home/quirinpa/linux/include/linux/nodemask.h

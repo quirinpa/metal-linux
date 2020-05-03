@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/common/saa7146/Makefile
+/home/quirinpa/linux/drivers/media/common/saa7146/Makefile

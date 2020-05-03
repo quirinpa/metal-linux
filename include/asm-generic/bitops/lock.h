@@ -1,1 +1,1 @@
-../../../..//linux//include/asm-generic/bitops/lock.h
+/home/quirinpa/linux/include/asm-generic/bitops/lock.h

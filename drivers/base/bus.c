@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/bus.c
+/home/quirinpa/linux/drivers/base/bus.c

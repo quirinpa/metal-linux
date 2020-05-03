@@ -1,1 +1,1 @@
-../../../..//linux//drivers/clk/mvebu/Makefile
+/home/quirinpa/linux/drivers/clk/mvebu/Makefile

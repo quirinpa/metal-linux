@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/memory_model.h
+/home/quirinpa/linux/include/asm-generic/memory_model.h

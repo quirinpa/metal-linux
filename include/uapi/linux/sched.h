@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/sched.h
+/home/quirinpa/linux/include/uapi/linux/sched.h

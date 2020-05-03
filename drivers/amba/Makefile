@@ -1,1 +1,1 @@
-../../..//linux//drivers/amba/Makefile
+/home/quirinpa/linux/drivers/amba/Makefile

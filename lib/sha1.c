@@ -1,1 +1,1 @@
-../..//linux//lib/sha1.c
+/home/quirinpa/linux/lib/sha1.c

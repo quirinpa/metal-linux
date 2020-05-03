@@ -1,1 +1,1 @@
-../../..//linux//kernel/time/Makefile
+/home/quirinpa/linux/kernel/time/Makefile

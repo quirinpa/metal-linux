@@ -1,1 +1,1 @@
-../../../..//linux//include/net/netns/mib.h
+/home/quirinpa/linux/include/net/netns/mib.h

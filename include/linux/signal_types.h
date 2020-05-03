@@ -1,1 +1,1 @@
-../../..//linux//include/linux/signal_types.h
+/home/quirinpa/linux/include/linux/signal_types.h

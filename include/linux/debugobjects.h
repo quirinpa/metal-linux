@@ -1,1 +1,1 @@
-../../..//linux//include/linux/debugobjects.h
+/home/quirinpa/linux/include/linux/debugobjects.h

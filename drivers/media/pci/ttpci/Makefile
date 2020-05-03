@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/media/pci/ttpci/Makefile
+/home/quirinpa/linux/drivers/media/pci/ttpci/Makefile

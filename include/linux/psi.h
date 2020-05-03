@@ -1,1 +1,1 @@
-../../..//linux//include/linux/psi.h
+/home/quirinpa/linux/include/linux/psi.h

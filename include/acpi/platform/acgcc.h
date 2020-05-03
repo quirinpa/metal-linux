@@ -1,1 +1,1 @@
-../../../..//linux//include/acpi/platform/acgcc.h
+/home/quirinpa/linux/include/acpi/platform/acgcc.h

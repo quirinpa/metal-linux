@@ -1,1 +1,1 @@
-../../..//linux//include/net/smc.h
+/home/quirinpa/linux/include/net/smc.h

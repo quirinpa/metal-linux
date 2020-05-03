@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/binfmts.h
+/home/quirinpa/linux/include/uapi/linux/binfmts.h

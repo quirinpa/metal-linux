@@ -1,1 +1,1 @@
-../..//linux//init/do_mounts.c
+/home/quirinpa/linux/init/do_mounts.c

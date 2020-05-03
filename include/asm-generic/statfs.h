@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/statfs.h
+/home/quirinpa/linux/include/asm-generic/statfs.h

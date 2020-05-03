@@ -1,1 +1,1 @@
-../../../../..//linux//drivers/pci/controller/dwc/Makefile
+/home/quirinpa/linux/drivers/pci/controller/dwc/Makefile

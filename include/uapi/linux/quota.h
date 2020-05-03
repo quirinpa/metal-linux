@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/quota.h
+/home/quirinpa/linux/include/uapi/linux/quota.h

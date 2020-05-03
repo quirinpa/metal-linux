@@ -1,1 +1,1 @@
-../../..//linux//include/linux/futex.h
+/home/quirinpa/linux/include/linux/futex.h

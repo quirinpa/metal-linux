@@ -1,1 +1,1 @@
-../../..//linux//include/linux/kobj_map.h
+/home/quirinpa/linux/include/linux/kobj_map.h

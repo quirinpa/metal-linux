@@ -1,1 +1,1 @@
-../../..//linux//include/linux/dirent.h
+/home/quirinpa/linux/include/linux/dirent.h

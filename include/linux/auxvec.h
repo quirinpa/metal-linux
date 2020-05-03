@@ -1,1 +1,1 @@
-../../..//linux//include/linux/auxvec.h
+/home/quirinpa/linux/include/linux/auxvec.h

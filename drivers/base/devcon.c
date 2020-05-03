@@ -1,1 +1,1 @@
-../../..//linux//drivers/base/devcon.c
+/home/quirinpa/linux/drivers/base/devcon.c

@@ -1,1 +1,1 @@
-../../..//linux//kernel/irq/debug.h
+/home/quirinpa/linux/kernel/irq/debug.h

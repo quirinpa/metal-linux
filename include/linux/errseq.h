@@ -1,1 +1,1 @@
-../../..//linux//include/linux/errseq.h
+/home/quirinpa/linux/include/linux/errseq.h

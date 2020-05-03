@@ -1,1 +1,1 @@
-../../..//linux//include/linux/khugepaged.h
+/home/quirinpa/linux/include/linux/khugepaged.h

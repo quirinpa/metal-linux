@@ -1,1 +1,1 @@
-../../..//linux//include/asm-generic/vmlinux.lds.h
+/home/quirinpa/linux/include/asm-generic/vmlinux.lds.h

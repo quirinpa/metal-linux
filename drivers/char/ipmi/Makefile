@@ -1,1 +1,1 @@
-../../../..//linux//drivers/char/ipmi/Makefile
+/home/quirinpa/linux/drivers/char/ipmi/Makefile

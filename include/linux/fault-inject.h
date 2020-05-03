@@ -1,1 +1,1 @@
-../../..//linux//include/linux/fault-inject.h
+/home/quirinpa/linux/include/linux/fault-inject.h

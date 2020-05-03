@@ -1,1 +1,1 @@
-../..//linux//security/min_addr.c
+/home/quirinpa/linux/security/min_addr.c

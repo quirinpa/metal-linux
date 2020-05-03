@@ -1,1 +1,1 @@
-../../../..//linux//include/uapi/linux/cgroupstats.h
+/home/quirinpa/linux/include/uapi/linux/cgroupstats.h
