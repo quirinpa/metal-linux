@@ -10,6 +10,39 @@
 #include <linux/errno.h>
 #include <linux/string.h>
 #include <linux/fs.h>
+#include <linux/debugfs.h>
+
+static const size_t stdin_size = 1024;
+
+char data[stdin_size];
+
+struct debugfs_blob_wrapper f0_bw;
+
+ssize_t
+read0(struct file *f, char __user *um, size_t len, loff_t *ofs)
+{
+	stdin_data_t *data = f->private_data;
+	loff_t avail = data->rem;
+	if (avail >= len)
+		memcpy(um, data->buf, len);
+	else
+		memcpy(um, data->buf, avail);
+	*ofs += len;
+	return len;
+}
+
+struct file_operations fops0 = {
+	.read = &read0,
+};
+
+long
+uio_init(void)
+{
+	struct dentry *f0_blob = debugfs_create_blob("0", 0x222, NULL, &f0_bw);
+	//struct file f0 = debugfs_create_file("0", 0x600, NULL, data, fops0);
+	//struct file f1 = debugfs_create_file("1", 0x600, NULL, data, fops1);
+	return 0;
+}
 
 long
 read0_evt(char *buf, unsigned long len)

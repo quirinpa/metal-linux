@@ -21,20 +21,22 @@ subdirs:=${subdirs:%/=%}
 builtin-target != [[ -z "${objects}${subdirs}" ]] || echo built-in.a
 lib-target != [[ -z "${lib-y}${lib-m}${lib-}" ]] || echo lib.a
 
-all: ${builtin-target} ${lib-target}
+all: ${subdirs} ${builtin-target} ${lib-target}
 
 $(builtin-target): ${subdirs-deps} ${objects}
-	${Q2}{ echo create $@ ; ${subdirs-deps:%=echo addlib % ; } \
+	@[[ "${Q2}" == "@" ]] || echo AR -o $@ ${subdirs:%=%/} ${objects}
+	@{ echo create $@ ; ${subdirs-deps:%=echo addlib % ; } \
 		${objects:%=echo addmod % ; } \
-		echo save ; echo end ; } | ${AR} -M
+		echo save ; echo end ; } | ar -M
 
 $(lib-target): ${lib-y} ${lib-m}
 	${Q2}{ echo create $@ ; ${lib-y:%=echo addmod % ; } \
 		${lib-m:%=echo addmod % ; } echo save ; echo end ; } | ${AR} -M
 
-$(subdirs-deps): FORCE
-	${Q}${MAKE} -C ${@:%/built-in.a=%} ${MAKEFLAGS}
-	${Q2}echo cd `echo ${@:%/built-in.a=%} | sed 's/[^/]*/../g'`
+$(subdirs): FORCE
+	@[[ "$Q" == "@" ]] || echo cd-push $@
+	@${MAKE} -C $@ ${MAKEFLAGS}
+	@echo cd-pop
 
 .PHONY: all debug
 

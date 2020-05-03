@@ -64,6 +64,9 @@ void __init early_init_dt_add_memory_arch(u64 base, u64 size)
  * 2. Count the pages we have and setup bootmem allocator
  * 3. zone setup
  */
+
+#include <asm/sections.h>
+
 void __init setup_arch_memory(void)
 {
 	unsigned long zones_size[MAX_NR_ZONES];
@@ -74,7 +77,12 @@ void __init setup_arch_memory(void)
 	init_mm.end_data = (unsigned long)_edata;
 	init_mm.brk = (unsigned long)_end;
 
-	pr_err("%s: Implement me properly.\n", __func__);
+	pr_err("'setup_arch_memory' %s: Implement me properly\n"
+	       "start_code: %lu\nend_code: %lu\nend_data: %lu\nbrk: %lu\n", __func__,
+	       init_mm.start_code,
+	       init_mm.end_code,
+	       init_mm.end_data,
+	       init_mm.brk);
 
 	/* first page of system - kernel .vector starts here */
 	min_low_pfn = ARCH_PFN_OFFSET;
@@ -135,6 +143,7 @@ void __init setup_arch_memory(void)
  */
 void __init mem_init(void)
 {
+	pr_err("mem_init %s.\n", __func__);
 	memblock_free_all();
 	mem_init_print_info(NULL);
 }

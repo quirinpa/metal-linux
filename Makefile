@@ -44,18 +44,23 @@ WW=build/w.w.js
 WN=build/w.n.js
 WON=build/w.o.n.js
 
-all: prepare ${EXE} ${WON} ${WN} ${WW} ${MN} ${MW}
+all: prepare ${vmlinux-dirs} ${EXE} ${WON} ${WN} ${WW} ${MN} ${MW}
+
+LINK.o += --export __syscall0 --export __syscall1 --export __syscall2 --export __syscall3 \
+	--export __syscall4 --export __syscall5 --export __syscall6
 
 ${EXE}: built-in.a
 	${LINK.o} -o ${EXE} ${LDLIBS} -e start_kernel -whole-archive built-in.a
 
-built-in.a: ${vmlinux-deps}
-	${Q2}{ echo create built-in.a ; ${vmlinux-deps:%=echo addlib % ; } \
-		echo save ; echo end ; } | ar -M
+built-in.a: $(vmlinux-deps)
+	@[[ "${Q2}" == "@" ]] || echo AR -o $@ ${vmlinux-dirs:%=%/}
+	@{ echo create built-in.a ; ${vmlinux-deps:%=echo addlib % ; } \
+		echo save ; echo end ; } | ${AR} -M
 
-$(vmlinux-deps): FORCE
-	${Q}${MAKE} -C ${@:%/built-in.a=%:%/lib.a=%} ${MAKEFLAGS}
-	${Q2}echo cd `echo ${@:%/built-in.a=%:%/lib.a=%} | sed 's/[^/]*/../g'`
+$(vmlinux-dirs): FORCE
+	@[[ "$Q" == "@" ]] || echo cd-push $@
+	@${MAKE} -C $@ ${MAKEFLAGS}
+	@echo cd-pop
 
 autoconf=include/generated/autoconf.h
 
@@ -82,7 +87,7 @@ $(vmlinux-clean):
 dep: ${vmlinux-dep}
 
 $(vmlinux-dep):
-	${Q2}${MAKE} -C ${@:%-dep=%} ${MAKEFLAGS} dep
+	@${MAKE} -C ${@:%-dep=%} ${MAKEFLAGS} dep
 
 .PHONY: dep ${vmlinux-dep}
 

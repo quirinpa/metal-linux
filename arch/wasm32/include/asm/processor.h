@@ -81,7 +81,7 @@ extern unsigned int get_wchan(struct task_struct *p);
 
 #define TASK_SIZE	0x60000000
 
-static unsigned long kvaddr_size = 2;
+static unsigned long kvaddr_size = 10;
 
 #define VMALLOC_START	(PAGE_OFFSET - (kvaddr_size << 20))
 

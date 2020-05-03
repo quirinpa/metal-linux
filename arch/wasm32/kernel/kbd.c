@@ -1,5 +1,5 @@
 #include "kbd.h"
-#include "uio.h"
+/* #include "evt.h" */
 
 typedef unsigned short (*k_hand)(unsigned short, int);
 
@@ -19,6 +19,8 @@ static unsigned short key_maps[][128] = {{
 }};
 
 static unsigned shift_state = 0;
+
+extern long write(int fd, const void * buf, unsigned long len);
 
 static unsigned short
 do_self(unsigned short ksym, int up_key)
@@ -51,7 +53,7 @@ static k_hand key_handler[4] = {
 #define KTYP(keysym) ((keysym & 0xff00) >> 8)
 
 void
-input_kc(unsigned char kc, int up_flag)
+input_kc(unsigned char kc, unsigned char up_flag)
 {
 	unsigned short keysym;
 	unsigned char type;

@@ -9,7 +9,7 @@ LDFLAGS += -L${sysroot}/lib
 LDFLAGS += --allow-undefined-file=${srcdir}/wasm.syms
 
 Q=
-Q2=@
+Q2=
 
 COMPILE.c := ${Q2}${COMPILE.c}
 LINK.o := ${Q2}${LD} ${LDFLAGS}

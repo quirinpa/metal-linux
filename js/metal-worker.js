@@ -110,6 +110,7 @@ function js_emem(ofs, p, p_len) {
 }
 
 function init(_shbuf) {
+        console.log('initializing shared memory');
         shbuf = _shbuf;
         evt_n = new Int32Array(shbuf, 0, 1);
         self.onmessage = null;
@@ -183,6 +184,7 @@ const booted = wasm_load_inst(
                 __syscall5: exports.__syscall5,
                 __syscall6: exports.__syscall6,
         };
+        console.log(exports);
 
         exports.start_kernel();
 #ifndef NOT_CLIENT

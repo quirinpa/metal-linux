@@ -1,9 +1,9 @@
 /* #include <linux/unistd.h> */
 #include <asm/syscall.h>
 #include <asm/linkage.h> /* __wasm_export */
-#include <linux/syscalls.h>
-#include <linux/printk.h>
+#include <asm/ar.h>
 #include <asm/syscall_wrapper.h>
+#include <linux/printk.h>
 
 #define AR_FB(ar, ...) AR_FB##ar(__VA_ARGS__)
 #define AR_FB0()
@@ -34,10 +34,12 @@
 #define METAL_SYSCALL_DECLARE(ar, name, ...) \
         long sys_m_##name(__VA_ARGS__);
 
+#include <uapi/linux/uio.h>
+
 METAL_SYSCALL_DECLARE(3, writev, int, const struct iovec *, int);
 METAL_SYSCALL_DECLARE(3, read, int, void*, size_t);
 
-SYSCALL_DEBUG(1, exit, a, int, a);
+/* SYSCALL_DEBUG(1, exit, a, int, a); */
 SYSCALL_DEBUG(3, ioctl, 0, int, fd, int, req, void *, arg);
 
 typedef asmlinkage long (*sys_call_ptr_t)();
@@ -50,8 +52,10 @@ asmlinkage const sys_call_ptr_t sys_call_table[__NR_syscalls+1] = {
 #include <asm/unistd.h>
 };
 
+long sys_ni_syscall(void);
+
 #define DEFSYSCALL(ar) \
-	__wasm_export long __syscall##ar(long n AR_DECL(ar, AR_LGEN##ar)) { \
+	asmlinkage __visible __wasm_export long __init __syscall##ar(long n AR_DECL(ar, AR_LGEN##ar)) { \
 		if (sys_call_table[n] == sys_ni_syscall) { \
 			pr_err("ni_syscall[%d][%ld] ("AR_LF##ar")\n", \
 				   ar, n AR_FB(ar, AR_LGEN##ar)); \

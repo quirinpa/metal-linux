@@ -1,0 +1,2 @@
+check resolved todo printk_safe_flush_on_panic -> printk_safe_flush -> __printk_safe_flush len 0
+describe memory

@@ -1,7 +1,7 @@
 set path =./**
 
-set efm +=%Dmake\ -C\ %f\ %.%#
-set efm +=%Xcd\ ..
+set efm +=%Dcd-push\ %f
+set efm +=%Xcd-pop
 
 set grepprg=ag\ --cc\ --vimgrep\ $*
 set grepformat=%f:%l:%c:%m
@@ -22,3 +22,5 @@ endfunction
 nmap <leader>g :call Google("<c-r><c-w>")<cr>
 nmap <leader>ku :call KCmd("kundef")<cr>:vie undef<cr>
 nmap <leader>mv 0d$:call KCmd("kmva <c-r>"")<cr>dd
+
+let g:netrw_list_hide= '.*\.[od]$'

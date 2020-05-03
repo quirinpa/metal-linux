@@ -3,6 +3,8 @@
 
 #include <asm/ar.h>
 
+long sys_ni_syscall(void);
+
 #define METAL_SYSCALL_DEFINE(ar, name, ...) \
 	long sys_##name##_##ar(AR_DECL_(ar, __VA_ARGS__)); \
 	long sys_m_##name(AR_DECL_(ar, __VA_ARGS__)) { \

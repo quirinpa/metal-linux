@@ -6,8 +6,8 @@
 #endif
 
 /* kernel/exit.c */
-#define __NR_exit 1
-__SYSCALL(__NR_exit, sys_m_exit)
+/* #define __NR_exit 1 */
+/* __SYSCALL(__NR_exit, sys_m_exit) */
 
 #define __NR_read 3
 __SYSCALL(__NR_read, sys_m_read)

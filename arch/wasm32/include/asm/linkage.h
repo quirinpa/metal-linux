@@ -26,7 +26,10 @@
 
 #endif /* __ASSEMBLY__ */
 
-#define __wasm_export __used __attribute__((visibility("default")))
+// not working, needs explicit export
+#define __wasm_export __attribute__((used)) __attribute__((visibility("default")))
+
+#define cond_syscall(x)	long x() __attribute__((weak, alias("sys_ni_syscall")))
 
 #endif /* _ASM_WASM_LINKAGE_H */
 

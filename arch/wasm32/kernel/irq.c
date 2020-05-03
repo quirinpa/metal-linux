@@ -1,41 +1,42 @@
-/*
- * Copyright (C) 2011-12 Synopsys, Inc. (www.synopsys.com)
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License version 2 as
- * published by the Free Software Foundation.
- *
- */
-
 #include <linux/interrupt.h>
-#include <linux/irqchip.h>
-#include <asm/mach_desc.h>
-#include <asm/smp.h>
+//#include <linux/irqchip.h>
 
-/*
- * Late Interrupt system init called from start_kernel for Boot CPU only
- *
- * Since slab must already be initialized, platforms can start doing any
- * needed request_irq( )s
- */
-void __init init_IRQ(void)
+ssize_t js_emem(size_t, u8 *, size_t);
+
+static ssize_t
+emem(u8 * data, size_t len)
 {
-	/*
-	 * process the entire interrupt tree in one go
-	 * Any external intc will be setup provided DT chains them
-	 * properly
-	 */
-	irqchip_init();
-
-	if (machine_desc->init_per_cpu)
-		machine_desc->init_per_cpu(smp_processor_id());
+	/* static unsigned const end = 2048; */
+	static unsigned const start = 4;
+	static unsigned ofs = start;
+        ssize_t r = js_emem(ofs, data, len);
+        ofs += r;
+        return r;
 }
 
-/*
- * "C" Entry point for any ARC ISR, called from low level vector handler
- * @irq is the vector number read from ICAUSE reg of on-chip intc
- */
-void arch_do_IRQ(unsigned int hwirq, struct pt_regs *regs)
+void __init init_IRQ(void)
 {
-	handle_domain_irq(NULL, hwirq, regs);
+	//set_handle_irq(plat_irq_dispatch);
+}
+
+void __irq_entry do_IRQ(unsigned int irq)
+{
+	irq_enter();
+	// check_stack_overflow();
+	generic_handle_irq(irq);
+	irq_exit();
+}
+
+ssize_t evt_count(unsigned);
+
+static unsigned wait = 100;
+
+asmlinkage void plat_irq_dispatch(void)
+{
+	unsigned int pending = evt_count(wait), i;
+	for (i = 0; i < pending; i++) {
+		unsigned int irq;
+		emem(&irq, sizeof(irq));
+		do_IRQ(irq);
+	}
 }
