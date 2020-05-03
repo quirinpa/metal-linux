@@ -8,7 +8,7 @@ include scripts/Makefile.common
 
 WASMBROWSER?=chrome
 
-EXE = metal.wasm
+EXE = ../bin/metal.wasm
 init-y			:= init/
 drivers-y		:= drivers/
 libs-y			:= lib/
