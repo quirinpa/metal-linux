@@ -42,7 +42,7 @@ LINK.o += --export __syscall0 --export __syscall1 --export __syscall2 --export _
 	--export __syscall4 --export __syscall5 --export __syscall6
 
 metal.wasm: built-in.a
-	${LINK.o} -o ${EXE} ${LDLIBS} -e start_kernel -whole-archive built-in.a
+	${LINK.o} -o $@ ${LDLIBS} -e start_kernel -whole-archive built-in.a
 
 built-in.a: $(vmlinux-deps)
 	@[[ "${Q2}" == "@" ]] || echo AR -o $@ ${vmlinux-dirs:%=%/}
