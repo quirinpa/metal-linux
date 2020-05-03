@@ -8,3 +8,4 @@ build/*
 tags
 .libs
 include/generated/autoconf.h
+metal.wasm
