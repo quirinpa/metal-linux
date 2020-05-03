@@ -1,11 +1,7 @@
 *.o
 *.a
 *.d
-.*.sw?
-node_modules
-package-lock.json
-build/*
-tags
-.libs
-include/generated/autoconf.h
-metal.wasm
+/tags
+/include/generated/autoconf.h
+/metal.wasm
+/metal.js

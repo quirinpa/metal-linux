@@ -8,7 +8,6 @@ include scripts/Makefile.common
 
 WASMBROWSER?=chrome
 
-EXE = metal.wasm
 init-y			:= init/
 drivers-y		:= drivers/
 libs-y			:= lib/
@@ -37,12 +36,12 @@ KBUILD_VMLINUX_LIBS := ${libs-y1}
 vmlinux-deps := $(KBUILD_LDS) $(KBUILD_VMLINUX_INIT) $(KBUILD_VMLINUX_MAIN) \
 	$(KBUILD_VMLINUX_LIBS)
 
-all: prepare ${vmlinux-dirs} ${EXE} ${WON} ${WN} ${WW} ${MN} ${MW}
+all: prepare ${vmlinux-dirs} metal.js
 
 LINK.o += --export __syscall0 --export __syscall1 --export __syscall2 --export __syscall3 \
 	--export __syscall4 --export __syscall5 --export __syscall6
 
-${EXE}: built-in.a
+metal.wasm: built-in.a
 	${LINK.o} -o ${EXE} ${LDLIBS} -e start_kernel -whole-archive built-in.a
 
 built-in.a: $(vmlinux-deps)
@@ -70,7 +69,7 @@ $(autoconf): ${config} extra-conf.h
 .PHONY: all prepare
 
 clean: ${vmlinux-clean}
-	${Q2}rm ${EXE} *.a 2>/dev/null || true
+	${Q2}rm metal.wasm metal.js *.a 2>/dev/null || true
 
 $(vmlinux-clean):
 	${Q2}${MAKE} -C ${@:%-clean=%} ${MAKEFLAGS} clean
@@ -92,7 +91,8 @@ $(vmlinux-cleandep):
 .PHONY: cleandep ${vmlinux-cleandep}
 
 install: all
-	${Q2}cp ${EXE} ${sysroot}/bin
+	${Q2}cp metal.wasm ${sysroot}/bin
+	${Q2}cp metal.js ${sysroot}
 
 # naive approach for now.
 tags:
