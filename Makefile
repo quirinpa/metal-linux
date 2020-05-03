@@ -1,4 +1,4 @@
-.SUFFIXES: .a .js
+.SUFFIXES: .a
 # .POSIX:
 
 srcdir=${PWD}
@@ -37,14 +37,6 @@ KBUILD_VMLINUX_LIBS := ${libs-y1}
 vmlinux-deps := $(KBUILD_LDS) $(KBUILD_VMLINUX_INIT) $(KBUILD_VMLINUX_MAIN) \
 	$(KBUILD_VMLINUX_LIBS)
 
-WORKER=js/metal-worker.js
-INTERF=js/metal.js
-MW=build/m.w.js
-MN=build/m.n.js
-WW=build/w.w.js
-WN=build/w.n.js
-WON=build/w.o.n.js
-
 all: prepare ${vmlinux-dirs} ${EXE} ${WON} ${WN} ${WW} ${MN} ${MW}
 
 LINK.o += --export __syscall0 --export __syscall1 --export __syscall2 --export __syscall3 \
@@ -78,7 +70,7 @@ $(autoconf): ${config} extra-conf.h
 .PHONY: all prepare
 
 clean: ${vmlinux-clean}
-	${Q2}rm ${EXE} *.a build/*.js 2>/dev/null || true
+	${Q2}rm ${EXE} *.a 2>/dev/null || true
 
 $(vmlinux-clean):
 	${Q2}${MAKE} -C ${@:%-clean=%} ${MAKEFLAGS} clean
@@ -98,27 +90,6 @@ $(vmlinux-cleandep):
 	${Q2}${MAKE} -C ${@:%-cleandep=%} ${MAKEFLAGS} cleandep
 
 .PHONY: cleandep ${vmlinux-cleandep}
-
-$(MW): build ${INTERF}
-	${Q2}${CPP} -P -o $@ -C ${INTERF}
-
-$(MN): build ${INTERF}
-	${Q2}${CPP} -P -o $@ -C -DNODE ${INTERF}
-
-$(WW): build ${WORKER}
-	${Q2}${CPP} -P -o $@ -C ${WORKER}
-
-$(WN): build ${WORKER}
-	${Q2}${CPP} -P -o $@ -C -DNODE ${WORKER}
-
-$(WON): build ${WORKER}
-	${Q2}${CPP} -P -o $@ -C -DNODE -DOLD ${WORKER}
-
-build:
-	${Q2}mkdir build
-
-run:	all #${WN} ${MN} ${WON}
-	${Q2}${MAKE} -C ../example run
 
 install: all
 	${Q2}cp ${EXE} ${sysroot}/bin
