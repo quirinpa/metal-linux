@@ -36,7 +36,7 @@ KBUILD_VMLINUX_LIBS := ${libs-y1}
 vmlinux-deps := $(KBUILD_LDS) $(KBUILD_VMLINUX_INIT) $(KBUILD_VMLINUX_MAIN) \
 	$(KBUILD_VMLINUX_LIBS)
 
-all: prepare ${vmlinux-dirs} metal.js
+all: prepare ${vmlinux-dirs} metal.wasm
 
 LINK.o += --export __syscall0 --export __syscall1 --export __syscall2 --export __syscall3 \
 	--export __syscall4 --export __syscall5 --export __syscall6
@@ -69,7 +69,7 @@ $(autoconf): ${config} extra-conf.h
 .PHONY: all prepare
 
 clean: ${vmlinux-clean}
-	${Q2}rm metal.wasm metal.js *.a 2>/dev/null || true
+	${Q2}rm metal.wasm *.a 2>/dev/null || true
 
 $(vmlinux-clean):
 	${Q2}${MAKE} -C ${@:%-clean=%} ${MAKEFLAGS} clean
@@ -91,8 +91,7 @@ $(vmlinux-cleandep):
 .PHONY: cleandep ${vmlinux-cleandep}
 
 install: all
-	${Q2}cp metal.wasm ${sysroot}/bin
-	${Q2}cp metal.js ${sysroot}
+	${Q2}cp metal.wasm ${DESTDIR}/bin
 
 # naive approach for now.
 tags:
