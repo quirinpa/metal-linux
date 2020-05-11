@@ -13,6 +13,7 @@ drivers-y		:= drivers/
 libs-y			:= lib/
 core-y			:=
 core-y			+= kernel/ mm/ fs/ security/
+dummy-dirs := fs/exofs
 
 include arch/${ARCH}/Makefile
 
@@ -36,7 +37,10 @@ KBUILD_VMLINUX_LIBS := ${libs-y1}
 vmlinux-deps := $(KBUILD_LDS) $(KBUILD_VMLINUX_INIT) $(KBUILD_VMLINUX_MAIN) \
 	$(KBUILD_VMLINUX_LIBS)
 
-all: prepare ${vmlinux-dirs} metal.wasm
+all: ${dummy-dirs} prepare ${vmlinux-dirs} metal.wasm
+
+$(dummy-dirs):
+	mkdir -p $@
 
 LINK.o += --export __syscall0 --export __syscall1 --export __syscall2 --export __syscall3 \
 	--export __syscall4 --export __syscall5 --export __syscall6
