@@ -3,7 +3,7 @@ ARCHDIR=arch/${ARCH}
 HDR_DIRS=${ARCHDIR}/include ${ARCHDIR}/include/uapi include include/uapi
 
 CFLAGS += -D_XOPEN_SOURCE=700 ${HDR_DIRS:%=-I${srcdir}/%} -ffreestanding \
-	  -D__KERNEL__ -D__clang__ -include linux/kconfig.h -Wno-initializer-overrides -O2
+	  -D__KERNEL__ -D__clang__ -include linux/kconfig.h -Wno-initializer-overrides -Oz
 
 LDFLAGS += -L${DESTDIR}/lib
 LDFLAGS += --allow-undefined-file=${srcdir}/wasm.syms
